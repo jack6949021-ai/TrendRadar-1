@@ -1,25 +1,27 @@
 DeepSeek
 梁文锋
-
 谷歌
 google
 gemini
-
 chatgpt
 openai
-
-金价
-
-黄金
-+价格
-
-美债
-
-美股
-
-美元
-+指数
-
-特朗普
-
-伊朗
+DeepSeek
+基础超级模型
+Llama3.1
+智能体（AI Agent）
+具身智能
+自验证推理
+世界模型
+3D 生成
+氛围编程（vibe coding）
+AI 原生
+TPUv7
+GUI Agent
+RAG（检索增强生成）
+多模态大模型
+AI 安全与监管
+agentic
+clanker
+slop
+hallucinate
+拟社会关系（parasocial）
