@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T14:42:52.259147+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2025-12-10T15:52:45.771603+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -32,6 +32,18 @@
           "time_info": "[00时36分 ~ 07时27分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 15时52分]"
+        },
+        {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
           "url": "https://wallstreetcn.com/articles/3761018",
           "source": "华尔街见闻",
@@ -42,19 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 14时42分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 14时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 15时52分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -110,6 +111,29 @@
           "time_info": "[00时36分 ~ 07时27分]"
         },
         {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时52分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
           "url": "https://flash.jin10.com/detail/20251210070402355800",
           "source": "金十数据",
@@ -152,17 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "特朗普：泰柬又打起来了，我得打个电话",
-          "url": "https://news.ifeng.com/c/8oyCMciyCox",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
         },
         {
           "title": "美国总统特朗普：支持奥巴马医保补贴立法草案这个概念。 我喜欢资金流向民众、而不要流向保险行业这个想法。",
@@ -370,6 +383,28 @@
           "time_info": "07时27分"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：美国总统特朗普目前并未急于解除对莫斯科的制裁，反而加强了制裁措施。",
+          "url": "https://flash.jin10.com/detail/20251210153923552800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "特朗普：明天需要给柬埔寨和泰国打电话。",
           "url": "https://wallstreetcn.com/livenews/3018039",
           "source": "华尔街见闻-快讯",
@@ -442,7 +477,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -511,6 +546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：俄罗斯赞赏美国总统特朗普寻求就乌克兰问题开展对话的意愿。",
+          "url": "https://flash.jin10.com/detail/20251210152545435800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -861,8 +907,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 15时52分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -934,8 +980,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 15时52分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -1028,6 +1074,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 12时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印尼财政部：当参考价格设定为每盎司2800美元至低于3200美元时，将对黄金出口征收7.5%至12.5%的关税。",
+          "url": "https://flash.jin10.com/detail/20251210154809285800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊总统重申伊朗与委内瑞拉站在一起",
+          "url": "https://flash.jin10.com/detail/20251210151717145800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         }
       ]
     }
