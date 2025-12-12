@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T05:17:41.642652+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2025-12-13T06:19:18.426897+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时19分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 06时19分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -49,11 +49,12 @@
           "ranks": [
             1,
             4,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时19分]"
         },
         {
           "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
@@ -85,8 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时17分]"
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 06时19分]"
         },
         {
           "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
