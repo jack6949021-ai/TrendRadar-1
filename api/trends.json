@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T12:25:24.516445+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2025-12-13T13:19:47.333399+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,19 @@
           "time_info": "[03时17分 ~ 07时19分]"
         },
         {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时19分 ~ 13时19分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
           "url": "https://wallstreetcn.com/articles/3761213",
           "source": "华尔街见闻",
@@ -68,19 +81,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 12时25分]"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
