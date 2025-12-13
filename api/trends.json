@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T07:19:20.371561+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2025-12-13T09:21:29.945301+08:00",
+  "total_titles_processed": 717,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时21分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时21分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -73,11 +73,12 @@
           "url": "https://flash.jin10.com/detail/20251213033638415800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 07时19分]"
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 09时21分]"
         },
         {
           "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
@@ -95,11 +96,12 @@
           "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 09时21分]"
         },
         {
           "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
