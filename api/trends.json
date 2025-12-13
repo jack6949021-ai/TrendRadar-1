@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T17:18:44.293974+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2025-12-13T18:18:48.548917+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时19分 ~ 17时18分]"
+          "appearance_count": 11,
+          "time_info": "[07时19分 ~ 18时18分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
