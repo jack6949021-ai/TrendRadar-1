@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T11:15:45.055740+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2025-12-13T12:25:24.516445+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 11时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 12时25分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 11时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 12时25分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -70,6 +70,19 @@
           "time_info": "02时29分"
         },
         {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 12时25分]"
+        },
+        {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
           "url": "https://flash.jin10.com/detail/20251213033638415800",
           "source": "金十数据",
@@ -80,19 +93,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时21分 ~ 09时21分]"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 11时15分]"
         },
         {
           "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
@@ -112,7 +112,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         },
