@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T12:35:50.413855+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2025-12-14T13:19:26.888918+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 12时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 13时19分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时19分]"
         },
         {
           "title": "XREAL携手谷歌推出全球首款Android XR智能眼镜",
@@ -50,11 +50,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时19分]"
         }
       ]
     }
