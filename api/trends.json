@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T19:16:32.020553+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2025-12-14T20:36:07.710518+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
@@ -58,6 +58,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时28分 ~ 13时19分]"
+        },
+        {
+          "title": "世界模型 (World Models) 是什么？",
+          "url": "https://www.zhihu.com/question/644725384",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 20时36分]"
         }
       ]
     }
