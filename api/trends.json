@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T20:42:45.782140+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2025-12-15T21:40:49.486388+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,17 @@
           "time_info": "[11时29分 ~ 13时24分]"
         },
         {
+          "title": "机器人年终盘点②：具身智能加速奔赴“场景”，机遇与挑战共存",
+          "url": "https://www.cls.cn/detail/2228828",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时40分]"
+        },
+        {
           "title": "传联发科拿下两代谷歌TPU定制大单",
           "url": "https://flash.jin10.com/detail/20251215105959893800",
           "source": "金十数据",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
-        },
-        {
-          "title": "机器人年终盘点②：具身智能加速奔赴“场景”，机遇与挑战共存",
-          "url": "https://www.cls.cn/detail/2228828",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
         },
         {
           "title": "一手好牌打稀烂,deepseek成弃子",
