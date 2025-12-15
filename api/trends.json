@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T03:19:48.531779+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2025-12-16T04:22:45.599496+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时22分]"
         },
         {
           "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时22分]"
         },
         {
           "title": "OpenAI： Albert Lee将于周二出任企业发展副总裁，并向首席财务官Sarah Friar汇报。",
@@ -49,7 +50,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         }
