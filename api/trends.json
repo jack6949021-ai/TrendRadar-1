@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T12:39:29.365237+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2025-12-15T13:24:56.895472+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时29分 ~ 13时24分]"
         },
         {
           "title": "传联发科拿下两代谷歌TPU定制大单",
