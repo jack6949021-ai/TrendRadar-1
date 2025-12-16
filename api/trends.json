@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T19:18:52.311917+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2025-12-16T20:41:17.463287+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "机器人年终盘点②：具身智能加速奔赴“场景”，机遇与挑战共存",
@@ -79,6 +79,17 @@
           "time_info": "[14时31分 ~ 15时22分]"
         },
         {
+          "title": "加拿大蒙特利尔银行：将谷歌(GOOG.O)目标价从340美元上调至343美元。",
+          "url": "https://flash.jin10.com/detail/20251216195848833800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "年初 DeepSeek R1 的发布，给整个 AI 行业带来了什么影响？",
           "url": "https://www.zhihu.com/question/1974950875228308388",
           "source": "知乎",
@@ -96,7 +107,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
