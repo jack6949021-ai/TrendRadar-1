@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-18T14:31:31.047045+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2025-12-18T15:21:42.996420+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 15时21分]"
+        },
         {
           "title": "英伟达CEO黄仁勋：我们尚未向OpenAI支付一分钱。",
           "url": "https://flash.jin10.com/detail/20251218090552054800",
@@ -17,20 +32,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        },
-        {
-          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
-          "url": "https://www.cls.cn/detail/2232894",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 14时31分]"
         },
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
@@ -59,6 +60,18 @@
           "time_info": "[00时27分 ~ 02时30分]"
         },
         {
+          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1984670354627651255",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时21分]"
+        },
+        {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
           "url": "https://wallstreetcn.com/livenews/3022526",
           "source": "华尔街见闻-快讯",
@@ -69,6 +82,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 01时22分]"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时21分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
@@ -94,15 +119,16 @@
           "time_info": "[11时20分 ~ 12时33分]"
         },
         {
-          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1984670354627651255",
+          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
+          "url": "https://www.zhihu.com/question/1984788546771517931",
           "source": "知乎",
           "ranks": [
-            7
+            16,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时21分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
@@ -114,17 +140,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
         },
         {
           "title": "英伟达CEO黄仁勋称公司尚未向 OpenAI 提供任何资金支持。（福克斯新闻）",
@@ -171,15 +186,15 @@
           "time_info": "00时27分"
         },
         {
-          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
-          "url": "https://www.zhihu.com/question/1984788546771517931",
-          "source": "知乎",
+          "title": "商汤科技、大晓机器人与中科曙光正式达成战略合作，将共建国产化“算力基础设施+世界模型+具身智能 ”生态",
+          "url": "https://wallstreetcn.com/livenews/3022923",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时31分"
+          "time_info": "15时21分"
         },
         {
           "title": "据The Information：OpenAI已讨论以约7500亿美元的估值筹集数百亿美元。",
