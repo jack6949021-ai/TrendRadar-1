@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T20:39:53.534160+08:00",
-  "total_titles_processed": 1866,
+  "generated_at": "2025-12-18T21:35:46.151439+08:00",
+  "total_titles_processed": 1963,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时31分 ~ 20时39分]"
+          "appearance_count": 10,
+          "time_info": "[14时31分 ~ 21时35分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
