@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T04:21:22.606965+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2025-12-20T05:18:11.146763+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 05时18分]"
         },
         {
           "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
