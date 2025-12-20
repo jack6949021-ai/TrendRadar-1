@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T13:19:12.211910+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2025-12-20T14:29:10.832983+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时19分 ~ 13时19分]"
+          "appearance_count": 11,
+          "time_info": "[06时19分 ~ 14时29分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -41,11 +41,12 @@
           "ranks": [
             2,
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 14时29分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
