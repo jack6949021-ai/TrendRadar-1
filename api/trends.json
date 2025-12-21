@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T17:19:19.091692+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2025-12-21T18:19:20.595322+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
@@ -37,19 +37,6 @@
           "time_info": "[00时22分 ~ 13时20分]"
         },
         {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 11时28分]"
-        },
-        {
           "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
           "url": "https://wallstreetcn.com/articles/3761778",
           "source": "华尔街见闻",
@@ -61,8 +48,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时28分 ~ 17时19分]"
+          "appearance_count": 10,
+          "time_info": "[11时28分 ~ 18时19分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 11时28分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
