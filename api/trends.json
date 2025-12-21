@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T12:36:33.475375+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2025-12-21T13:20:04.332920+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 12时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 13时20分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 12时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 13时20分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -77,11 +77,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 13时20分]"
         }
       ]
     }
