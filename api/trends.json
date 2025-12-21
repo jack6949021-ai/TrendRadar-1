@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T16:24:27.684761+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2025-12-21T17:19:19.091692+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,21 @@
           "time_info": "[00时22分 ~ 11时28分]"
         },
         {
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时28分 ~ 17时19分]"
+        },
+        {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
           "url": "https://wallstreetcn.com/articles/3761757",
           "source": "华尔街见闻",
@@ -62,19 +77,15 @@
           "time_info": "[00时22分 ~ 09时40分]"
         },
         {
-          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
-          "url": "https://wallstreetcn.com/articles/3761778",
+          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
+          "url": "https://wallstreetcn.com/articles/3761777",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            8,
-            5,
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 16时24分]"
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 17时19分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -86,17 +97,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时22分 ~ 04时19分]"
-        },
-        {
-          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
-          "url": "https://wallstreetcn.com/articles/3761777",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 16时24分]"
         }
       ]
     }
