@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T13:23:19.418709+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-12-22T14:33:12.443038+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时33分]"
         },
         {
           "title": "「韧」和「深度求索（DeepSeek）」当选 2025 年度字词，你觉得准确吗？你心中年度字词是什么？",
@@ -68,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 14时33分]"
         }
       ]
     }
