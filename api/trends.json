@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T04:21:44.461170+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2025-12-26T05:18:02.935032+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时18分]"
         },
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 05时18分]"
         }
       ]
     }
