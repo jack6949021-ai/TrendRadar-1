@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-12-26T13:21:30.939132+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2025-12-26T14:31:44.170759+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
       "match_count": 4,
       "titles": [
-        {
-          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
-          "url": "https://wallstreetcn.com/articles/3762068",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 13时21分]"
-        },
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
           "url": "https://www.cls.cn/detail/2240453",
@@ -30,8 +17,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 14时31分]"
+        },
+        {
+          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
+          "url": "https://wallstreetcn.com/articles/3762068",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 14时31分]"
         },
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -50,11 +50,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 14时31分]"
         }
       ]
     }
