@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-26T07:19:12.918832+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2025-12-26T09:26:21.770574+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
           "url": "https://wallstreetcn.com/articles/3762068",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 09时26分]"
         },
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -28,6 +29,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 07时19分]"
+        },
+        {
+          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
+          "url": "https://www.cls.cn/detail/2240453",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     }
