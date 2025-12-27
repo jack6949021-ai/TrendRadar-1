@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T18:19:21.409420+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2025-12-27T19:16:16.029737+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "工信部人形机器人与具身智能标准化技术委员会成立",
@@ -16,11 +16,23 @@
             4,
             7,
             8,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 19时16分]"
+        },
+        {
+          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
+          "url": "https://www.cls.cn/detail/2241816",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
         }
       ]
     }
