@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T11:46:54.573032+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2025-12-28T12:43:31.182397+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 11时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 12时43分]"
         }
       ]
     }
