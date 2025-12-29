@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T11:48:25.881496+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2025-12-29T12:48:17.864718+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -27,8 +27,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 12时48分]"
+        },
+        {
+          "title": "巴菲特谢幕、OpenAI搅动万亿市值、谷歌强势崛起......2025全球十大商业事件盘点",
+          "url": "https://wallstreetcn.com/articles/3762142",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时43分 ~ 11时48分]"
+          "time_info": "[12时47分 ~ 12时48分]"
         },
         {
           "title": "深圳“十五五”规划建议：推动第六代移动通信、生物制造、具身智能等成为新的经济增长点",
