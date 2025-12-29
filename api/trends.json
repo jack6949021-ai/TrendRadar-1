@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T22:21:06.722622+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2025-12-29T23:21:45.779561+08:00",
+  "total_titles_processed": 1854,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时18分 ~ 23时21分]"
+        },
+        {
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时18分 ~ 22时21分]"
+          "time_info": "[20时41分 ~ 23时21分]"
         },
         {
           "title": "巴菲特谢幕、OpenAI搅动万亿市值、谷歌强势崛起......2025全球十大商业事件盘点",
@@ -53,18 +66,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时43分 ~ 13时28分]"
-        },
-        {
-          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
-          "url": "https://wallstreetcn.com/articles/3762071",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时41分 ~ 22时21分]"
         },
         {
           "title": "上纬新材：公司具身智能机器人业务仍处产品开发阶段 未实现量产及规模化销售",
