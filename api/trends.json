@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T04:22:16.820664+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2025-12-31T05:19:30.033067+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://flash.jin10.com/detail/20251231031255557800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时19分]"
         },
         {
           "title": "报道：软银已完成对OpenAI的400亿美元投资承诺",
