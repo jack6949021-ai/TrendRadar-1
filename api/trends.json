@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T03:16:53.220997+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2025-12-31T04:22:16.820664+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
@@ -13,11 +13,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 04时22分]"
+        },
+        {
+          "title": "谷歌旗下的自动驾驶公司Waymo已获得内华达州授权，并开始在拉斯维加斯进行配备安全员的自动驾驶测试。",
+          "url": "https://flash.jin10.com/detail/20251231031255557800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "报道：软银已完成对OpenAI的400亿美元投资承诺",
