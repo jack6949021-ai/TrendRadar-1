@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:17:45.135051+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-01-01T20:39:28.827576+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时17分]"
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时39分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -39,11 +40,12 @@
           "ranks": [
             3,
             7,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 20时39分]"
         },
         {
           "title": "谷歌旗下自动驾驶公司Waymo：正为明年在伦敦的商业发布做准备。",
@@ -63,11 +65,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时17分]"
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时39分]"
         },
         {
           "title": "美股科技巨头收盘播报｜2025年AMD涨超77%，谷歌A涨约66%，台积电涨月56%，英伟达涨幅不足39%",
