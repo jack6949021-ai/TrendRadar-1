@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-01T12:47:09.572758+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-01-01T13:26:13.398290+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
       "match_count": 4,
       "titles": [
+        {
+          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
+          "url": "https://wallstreetcn.com/articles/3762366",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 13时26分]"
+        },
         {
           "title": "谷歌旗下自动驾驶公司Waymo：正为明年在伦敦的商业发布做准备。",
           "url": "https://flash.jin10.com/detail/20260101000228879800",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时18分]"
-        },
-        {
-          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
-          "url": "https://wallstreetcn.com/articles/3762366",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时47分]"
         },
         {
           "title": "美股科技巨头收盘播报｜2025年AMD涨超77%，谷歌A涨约66%，台积电涨月56%，英伟达涨幅不足39%",
