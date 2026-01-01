@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T03:16:53.573755+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-01-02T04:22:13.618788+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,26 @@
           "url": "https://wallstreetcn.com/articles/3762429",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时22分]"
+        },
+        {
+          "title": "DeepSeek开年发布新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -31,18 +46,19 @@
           "time_info": "[00时24分 ~ 03时16分]"
         },
         {
-          "title": "DeepSeek开年发布新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
+          "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
+          "url": "https://wallstreetcn.com/livenews/3029628",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
+            8,
+            12,
             17,
-            16,
-            15
+            19,
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时16分]"
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -53,20 +69,6 @@
             20,
             25,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时16分]"
-        },
-        {
-          "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
-          "url": "https://wallstreetcn.com/livenews/3029628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            17,
-            19
           ],
           "is_new": false,
           "appearance_count": 4,
