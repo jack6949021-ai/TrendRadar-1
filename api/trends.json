@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T05:18:47.601034+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-01-02T06:19:21.671368+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -28,11 +28,12 @@
             17,
             16,
             15,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -43,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -55,11 +56,12 @@
             12,
             17,
             19,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
