@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T02:28:11.335624+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-01-02T03:16:53.573755+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时16分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时16分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -37,11 +37,12 @@
           "ranks": [
             20,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时16分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -50,11 +51,12 @@
           "ranks": [
             8,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时16分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -63,11 +65,12 @@
           "ranks": [
             8,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时16分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -76,11 +79,12 @@
           "ranks": [
             9,
             21,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 03时16分]"
         }
       ]
     }
