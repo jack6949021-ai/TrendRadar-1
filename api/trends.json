@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T22:19:39.975891+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-01-02T23:21:06.930012+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,25 @@
             12,
             19,
             26,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时29分 ~ 22时19分]"
+          "appearance_count": 16,
+          "time_info": "[11时29分 ~ 23时21分]"
+        },
+        {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时27分 ~ 23时21分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -64,8 +78,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时24分 ~ 22时19分]"
+          "appearance_count": 25,
+          "time_info": "[00时24分 ~ 23时21分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -84,19 +98,6 @@
           "time_info": "[00时24分 ~ 07时19分]"
         },
         {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时27分 ~ 22时19分]"
-        },
-        {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
           "url": "https://wallstreetcn.com/articles/3762451",
           "source": "华尔街见闻",
@@ -108,8 +109,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时23分 ~ 22时19分]"
+          "appearance_count": 9,
+          "time_info": "[17时23分 ~ 23时21分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -163,8 +164,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 23时21分]"
         },
         {
           "title": "谷歌AI的逆风翻盘史",
