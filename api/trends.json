@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T16:28:10.436414+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-01-02T17:24:06.026210+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
@@ -26,11 +26,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时29分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时29分 ~ 17时24分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -39,11 +40,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时29分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[11时29分 ~ 17时24分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -58,8 +60,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 16时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 17时24分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -108,6 +110,18 @@
           "time_info": "[00时24分 ~ 03时16分]"
         },
         {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 17时24分]"
+        },
+        {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
           "url": "https://flash.jin10.com/detail/20260101230736481800",
           "source": "金十数据",
@@ -122,15 +136,15 @@
           "time_info": "[00时24分 ~ 03时16分]"
         },
         {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "谷歌AI的逆风翻盘史",
