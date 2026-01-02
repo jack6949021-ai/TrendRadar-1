@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T17:24:06.026210+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-01-02T18:20:38.483537+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             1,
             2,
             3,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时29分 ~ 17时24分]"
+          "appearance_count": 10,
+          "time_info": "[11时29分 ~ 18时20分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -60,8 +61,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 17时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 18时20分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -96,6 +97,18 @@
           "time_info": "[00时24分 ~ 06时19分]"
         },
         {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 18时20分]"
+        },
+        {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
           "url": "https://flash.jin10.com/detail/20260101230819093800",
           "source": "金十数据",
@@ -108,18 +121,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 03时16分]"
-        },
-        {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 17时24分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -140,11 +141,12 @@
           "url": "https://wallstreetcn.com/articles/3762451",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时20分]"
         },
         {
           "title": "谷歌AI的逆风翻盘史",
