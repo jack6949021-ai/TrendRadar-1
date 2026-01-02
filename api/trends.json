@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T14:31:49.422639+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-01-02T15:23:26.209455+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时24分 ~ 14时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 15时23分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -27,11 +27,12 @@
             12,
             9,
             11,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 14时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 15时23分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -59,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时29分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时29分 ~ 15时23分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -72,8 +73,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时29分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时29分 ~ 15时23分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -118,6 +119,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 03时16分]"
+        },
+        {
+          "title": "谷歌AI的逆风翻盘史",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     }
