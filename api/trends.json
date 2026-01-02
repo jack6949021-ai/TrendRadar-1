@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T07:19:30.531613+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-01-02T09:28:23.872665+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时28分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 09时28分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
