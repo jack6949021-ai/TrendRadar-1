@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T13:24:54.811832+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-01-04T14:29:44.750454+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1990117220391622363",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时29分]"
         },
         {
           "title": "Gemini向小胖道歉",
