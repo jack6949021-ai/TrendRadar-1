@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T14:31:49.382316+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-01-07T15:24:47.650408+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "中国具身智能持续加速",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%8C%81%E7%BB%AD%E5%8A%A0%E9%80%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 15时24分]"
         },
         {
           "title": "谷歌与XREAL宣布达成深度长期战略合作",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 13时24分]"
-        },
-        {
-          "title": "中国具身智能持续加速",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E6%8C%81%E7%BB%AD%E5%8A%A0%E9%80%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
         }
       ]
     }
