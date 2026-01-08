@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T15:24:06.814214+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-01-08T16:29:02.267397+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,17 @@
           "time_info": "[06时20分 ~ 07时19分]"
         },
         {
+          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+          "url": "https://wallstreetcn.com/articles/3762755",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 16时29分]"
+        },
+        {
           "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
           "url": "https://www.zhihu.com/question/1992511254795870608",
           "source": "知乎",
@@ -54,17 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时19分]"
-        },
-        {
-          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
-          "url": "https://wallstreetcn.com/articles/3762755",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时24分]"
         },
         {
           "title": "FF：未来5年累计产销目标为40万辆至50万辆；推出具身智能机器人战略",
@@ -97,7 +97,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         },
