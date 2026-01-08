@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T18:23:26.274001+08:00",
-  "total_titles_processed": 1670,
+  "generated_at": "2026-01-08T19:20:07.398275+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 18时23分]"
+          "appearance_count": 8,
+          "time_info": "[15时23分 ~ 19时20分]"
         },
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
