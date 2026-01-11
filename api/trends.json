@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T13:24:10.401920+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-01-11T14:31:09.763112+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 13时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 14时31分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -82,11 +82,12 @@
           "ranks": [
             11,
             5,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时49分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时49分 ~ 14时31分]"
         },
         {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
