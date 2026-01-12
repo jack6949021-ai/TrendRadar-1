@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T17:32:02.725011+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-01-12T18:24:13.327991+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 18时24分]"
         },
         {
           "title": "上海：积极引导企业投资布局低空经济、商业航天、具身智能、生物制造、智能终端等新兴领域",
@@ -88,7 +89,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         }
