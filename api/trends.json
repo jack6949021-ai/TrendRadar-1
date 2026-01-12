@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T19:19:36.722394+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-01-12T20:43:43.180881+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "time_info": "[00时23分 ~ 06时18分]"
         },
         {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时26分 ~ 20时43分]"
+        },
+        {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
           "url": "https://flash.jin10.com/detail/20260111230441184800",
           "source": "金十数据",
@@ -45,18 +57,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 06时18分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时26分 ~ 19时19分]"
         },
         {
           "title": "上海：积极引导企业投资布局低空经济、商业航天、具身智能、生物制造、智能终端等新兴领域",
@@ -89,7 +89,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
