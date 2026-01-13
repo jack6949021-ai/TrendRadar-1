@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T06:21:19.473480+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-01-14T07:19:56.575453+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -52,19 +52,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
           "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "2026开年公募扎堆调研商业航天股，脑机接口、具身智能同受关注",
@@ -77,8 +78,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
