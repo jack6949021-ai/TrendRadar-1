@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T12:39:39.070339+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-01-13T13:25:32.535504+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 13时25分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时25分]"
         },
         {
           "title": "美联储调查风波之际，美股走V创新高，谷歌市值破4万亿，中概股大涨，金银大涨创新高",
@@ -80,11 +81,25 @@
           "url": "https://wallstreetcn.com/articles/3763115",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 13时25分]"
+        },
+        {
+          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2255551",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 13时25分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -123,17 +138,16 @@
           "time_info": "[00时25分 ~ 01时22分]"
         },
         {
-          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2255551",
-          "source": "财联社热门",
+          "title": "DeepSeek发布梁文锋署名新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            10,
-            11
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时25分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
@@ -158,18 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时21分]"
-        },
-        {
-          "title": "DeepSeek发布梁文锋署名新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时39分]"
         },
         {
           "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
@@ -266,7 +268,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
