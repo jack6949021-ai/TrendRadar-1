@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T21:41:01.052342+08:00",
-  "total_titles_processed": 1929,
+  "generated_at": "2026-01-13T22:24:42.225070+08:00",
+  "total_titles_processed": 2025,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时24分 ~ 21时41分]"
+          "appearance_count": 18,
+          "time_info": "[09时24分 ~ 22时24分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -29,11 +29,12 @@
             4,
             1,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时27分 ~ 21时41分]"
+          "appearance_count": 16,
+          "time_info": "[11时27分 ~ 22时24分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -46,8 +47,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时24分 ~ 21时41分]"
+          "appearance_count": 18,
+          "time_info": "[09时24分 ~ 22时24分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -59,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时29分 ~ 21时41分]"
+          "appearance_count": 10,
+          "time_info": "[16时29分 ~ 22时24分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -208,6 +209,18 @@
           "time_info": "[00时25分 ~ 01时22分]"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时24分]"
+        },
+        {
           "title": "iPhone官宣接入Gemini",
           "url": "https://search.bilibili.com/all?keyword=iPhone%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5Gemini",
           "source": "bilibili 热搜",
@@ -218,17 +231,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时27分 ~ 14时32分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
