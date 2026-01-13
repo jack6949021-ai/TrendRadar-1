@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T04:23:30.456725+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-01-14T05:20:37.383967+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -27,19 +27,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -50,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -61,8 +62,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "2026开年公募扎堆调研商业航天股，脑机接口、具身智能同受关注",
@@ -70,11 +71,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -85,8 +87,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时29分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[02时29分 ~ 05时20分]"
         }
       ]
     }
