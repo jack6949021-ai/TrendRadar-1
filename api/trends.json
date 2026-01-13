@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T20:43:28.372704+08:00",
-  "total_titles_processed": 1825,
+  "generated_at": "2026-01-13T21:41:01.052342+08:00",
+  "total_titles_processed": 1929,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时24分 ~ 20时43分]"
+          "appearance_count": 17,
+          "time_info": "[09时24分 ~ 21时41分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -32,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时27分 ~ 20时43分]"
+          "appearance_count": 15,
+          "time_info": "[11时27分 ~ 21时41分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -46,8 +46,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时24分 ~ 20时43分]"
+          "appearance_count": 17,
+          "time_info": "[09时24分 ~ 21时41分]"
+        },
+        {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 21时41分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -74,19 +87,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时31分 ~ 18时23分]"
-        },
-        {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时43分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -218,6 +218,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时27分 ~ 14时32分]"
+        },
+        {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
