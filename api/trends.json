@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T03:19:56.489556+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-01-14T04:23:30.456725+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时23分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时23分]"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时23分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -50,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时23分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -61,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时23分]"
         },
         {
           "title": "2026开年公募扎堆调研商业航天股，脑机接口、具身智能同受关注",
@@ -73,19 +73,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时23分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
           "url": "https://www.zhihu.com/question/1990762235694434081",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 04时23分]"
         }
       ]
     }
