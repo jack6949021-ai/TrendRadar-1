@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T16:29:22.726258+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-01-14T17:28:06.650739+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
@@ -103,13 +103,25 @@
           "time_info": "[02时29分 ~ 06时21分]"
         },
         {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 17时28分]"
+        },
+        {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
           "url": "https://wallstreetcn.com/livenews/3036793",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -125,24 +137,13 @@
           "time_info": "14时32分"
         },
         {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "蓝思科技：已构建起具身智能核心部件到整机组装的垂直整合制造平台",
           "url": "https://wallstreetcn.com/livenews/3036773",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
