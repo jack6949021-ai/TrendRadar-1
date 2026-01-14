@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T14:32:30.982712+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-01-14T15:25:19.586228+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,26 @@
             5,
             15,
             17,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 14时32分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 15时25分]"
+        },
+        {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 15时25分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -47,19 +62,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时30分 ~ 11时46分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 14时32分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -106,7 +108,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         }
