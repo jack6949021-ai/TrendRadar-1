@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T11:46:41.718366+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-01-14T12:45:56.549410+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             10,
             9,
             5,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 11时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 12时45分]"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -41,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 11时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 12时45分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
