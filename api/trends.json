@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T22:23:59.068805+08:00",
-  "total_titles_processed": 2147,
+  "generated_at": "2026-01-15T23:24:12.019490+08:00",
+  "total_titles_processed": 2248,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             16,
             9,
             22,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时39分 ~ 22时23分]"
+          "appearance_count": 16,
+          "time_info": "[12时39分 ~ 23时24分]"
         },
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
@@ -47,8 +48,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[21时39分 ~ 23时24分]"
+        },
+        {
+          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
+          "url": "https://www.zhihu.com/question/1995072623625855863",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时41分 ~ 23时24分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -60,18 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
-        },
-        {
-          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
-          "url": "https://www.zhihu.com/question/1995072623625855863",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时41分 ~ 22时23分]"
         },
         {
           "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
