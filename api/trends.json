@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T03:23:59.931378+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-01-16T04:24:23.715866+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时24分]"
         },
         {
           "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时24分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -43,8 +44,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时24分]"
         },
         {
           "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
