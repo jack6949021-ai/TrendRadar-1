@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T15:24:51.165470+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-01-15T16:29:29.101148+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             12,
             15,
             14,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时39分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[12时39分 ~ 16时29分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
