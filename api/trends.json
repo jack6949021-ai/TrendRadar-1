@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T18:22:43.574792+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2026-01-16T19:19:09.378278+08:00",
+  "total_titles_processed": 1744,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时39分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[12时39分 ~ 19时19分]"
         },
         {
           "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
