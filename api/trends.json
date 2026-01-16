@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T22:22:41.095334+08:00",
-  "total_titles_processed": 2055,
+  "generated_at": "2026-01-16T23:23:09.791896+08:00",
+  "total_titles_processed": 2141,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时39分 ~ 22时22分]"
+          "appearance_count": 15,
+          "time_info": "[12时39分 ~ 23时23分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
