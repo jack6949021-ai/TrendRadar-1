@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T04:20:47.843388+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-01-18T05:17:44.713123+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时17分]"
         },
         {
           "title": "匈牙利政府及企业家代表团到访天奇股份，考察具身智能机器人工业应用",
           "url": "https://wallstreetcn.com/livenews/3039142",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时17分]"
         }
       ]
     }
