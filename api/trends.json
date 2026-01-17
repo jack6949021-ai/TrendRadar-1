@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:24:40.892184+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-01-17T17:19:47.356724+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
@@ -70,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时19分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
