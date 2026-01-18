@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T21:28:16.109788+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-01-18T22:17:54.903726+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时29分 ~ 21时28分]"
+          "appearance_count": 12,
+          "time_info": "[14时29分 ~ 22时17分]"
         },
         {
           "title": "解读ChatGPT加入广告背后",
@@ -70,8 +70,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时40分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[12时40分 ~ 22时17分]"
+        },
+        {
+          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
+          "url": "https://wallstreetcn.com/articles/3763534",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 22时17分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -83,18 +95,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时44分 ~ 13时22分]"
-        },
-        {
-          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
-          "url": "https://wallstreetcn.com/articles/3763534",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时28分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
