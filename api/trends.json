@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T03:15:36.416926+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-01-19T04:21:57.713701+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "没有商业模式--DeepSeek最坚固的“护城河”",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
