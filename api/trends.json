@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T12:41:05.432828+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-01-18T13:22:50.853329+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             9,
             18,
             25,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 12时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 13时22分]"
         },
         {
           "title": "具身智能赛道 这些年轻人站上风口",
@@ -43,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 13时22分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -54,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 13时22分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -74,11 +75,12 @@
           "url": "https://www.zhihu.com/question/1995914466735388213",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 13时22分]"
         },
         {
           "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
