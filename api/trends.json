@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T12:51:04.851615+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-01-19T13:31:47.990871+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 12时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 13时31分]"
         },
         {
           "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
