@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T18:26:16.580781+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2026-01-20T19:22:57.934161+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 19时22分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
