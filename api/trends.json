@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T14:34:47.616797+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-01-20T15:27:22.016613+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 14时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时28分 ~ 15时27分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 14时34分]"
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 15时27分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -52,7 +52,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
