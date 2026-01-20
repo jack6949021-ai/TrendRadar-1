@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-20T21:45:46.376908+08:00",
-  "total_titles_processed": 1903,
+  "generated_at": "2026-01-20T22:32:11.486418+08:00",
+  "total_titles_processed": 1995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
       "match_count": 11,
       "titles": [
+        {
+          "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996233131175462349",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时32分 ~ 22时32分]"
+        },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
           "url": "https://www.cls.cn/detail/2262946",
@@ -19,20 +33,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时42分 ~ 16时31分]"
-        },
-        {
-          "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/1996233131175462349",
-          "source": "知乎",
-          "ranks": [
-            13,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 21时45分]"
         },
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
@@ -99,7 +99,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -110,7 +110,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
