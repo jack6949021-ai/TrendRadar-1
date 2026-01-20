@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T22:32:11.486418+08:00",
-  "total_titles_processed": 1995,
+  "generated_at": "2026-01-20T23:30:26.520161+08:00",
+  "total_titles_processed": 2104,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时32分 ~ 22时32分]"
+          "appearance_count": 10,
+          "time_info": "[17时32分 ~ 23时30分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -47,6 +47,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时28分 ~ 15时27分]"
+        },
+        {
+          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 23时30分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -113,17 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
-        },
-        {
-          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "报道：过去一年谷歌Gemini模型授权业务规模实现爆发式增长",
