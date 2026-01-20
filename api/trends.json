@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T01:29:11.068088+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-01-21T02:34:02.486464+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1996233131175462349",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时34分]"
         },
         {
           "title": "ServiceNow 与OpenAI 达成合作 为期三年",
@@ -25,7 +26,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -36,7 +37,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         }
