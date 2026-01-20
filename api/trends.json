@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T04:12:39.279640+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-01-21T05:20:12.579245+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 04时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 05时20分]"
         },
         {
           "title": "ServiceNow 与OpenAI 达成合作 为期三年",
@@ -38,7 +39,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
         },
@@ -49,7 +50,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
         },
@@ -60,7 +61,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
         },
