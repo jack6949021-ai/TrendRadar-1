@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T19:23:25.675137+08:00",
-  "total_titles_processed": 1819,
+  "generated_at": "2026-01-21T20:45:55.430082+08:00",
+  "total_titles_processed": 1930,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             8,
             9,
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时42分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[11时42分 ~ 20时45分]"
         },
         {
           "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
