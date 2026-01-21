@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T01:54:17.536272+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-01-22T02:40:45.660105+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时40分]"
         },
         {
           "title": "OpenAI首席财务官为ChatGPT引入广告辩解，称其为“强劲的商业模式”",
@@ -26,7 +27,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         }
