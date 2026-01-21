@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T05:27:30.367940+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-01-22T06:23:47.933446+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 05时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 06时23分]"
         },
         {
           "title": "市场消息：苹果计划改造Siri，将其打造成iPhone和Mac的内置聊天机器人，以与OpenAI抗衡。",
