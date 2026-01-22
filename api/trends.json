@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T05:21:55.632482+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-01-23T06:21:52.602287+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,21 @@
           "time_info": "00时34分"
         },
         {
+          "title": "DeepSeek Model 1悄然现身",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            24,
+            27,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时31分 ~ 06时21分]"
+        },
+        {
           "title": "美国雷多斯与OpenAI合作，在人工智能领域开展部署，以支持国家优先事项。",
           "url": "https://flash.jin10.com/detail/20260123040242165800",
           "source": "金十数据",
@@ -40,20 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时21分]"
-        },
-        {
-          "title": "DeepSeek Model 1悄然现身",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            24,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时31分 ~ 05时21分]"
         },
         {
           "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
