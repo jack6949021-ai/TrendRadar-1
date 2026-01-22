@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T11:47:03.994510+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-01-22T12:47:02.333188+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 09时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 12时47分]"
         },
         {
           "title": "OpenAI创始人奥特曼亲赴中东洽谈500亿美元新融资",
