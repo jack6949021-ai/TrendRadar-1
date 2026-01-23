@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T21:42:11.405784+08:00",
-  "total_titles_processed": 2059,
+  "generated_at": "2026-01-23T22:24:35.036106+08:00",
+  "total_titles_processed": 2139,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             20,
             19,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 21时42分]"
+          "appearance_count": 8,
+          "time_info": "[17时28分 ~ 22时24分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
