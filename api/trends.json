@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T19:20:22.470271+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2026-01-23T20:43:16.847244+08:00",
+  "total_titles_processed": 1967,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,18 @@
           "time_info": "00时34分"
         },
         {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 20时43分]"
+        },
+        {
           "title": "美国雷多斯与OpenAI合作，在人工智能领域开展部署，以支持国家优先事项。",
           "url": "https://flash.jin10.com/detail/20260123040242165800",
           "source": "金十数据",
@@ -56,18 +68,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时21分]"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时23分]"
         },
         {
           "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
