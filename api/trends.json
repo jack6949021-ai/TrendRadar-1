@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T02:31:42.464589+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-01-24T03:23:57.621910+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时23分]"
         },
         {
           "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
