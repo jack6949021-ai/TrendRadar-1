@@ -1,94 +1,22 @@
 {
-  "generated_at": "2026-01-24T23:19:29.550007+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-01-25T00:23:23.752005+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            5,
-            10,
-            16,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时20分]"
-        },
-        {
-          "title": "美国考虑用海军实施海上封锁，从而阻挠谷歌进口石油。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3043102",
+          "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3043305",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 05时20分]"
-        },
-        {
-          "title": "OpenAI的API业务上个月增长了10亿美元年度经常性收入",
-          "url": "https://wallstreetcn.com/livenews/3043198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时35分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
-          "url": "https://wallstreetcn.com/livenews/3043036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：未来一个月将推出大量与Codex相关的激动人心的新功能，将从下周开始公布。",
-          "url": "https://flash.jin10.com/detail/20260124001800277800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "据科技媒体TechCrunsh：OpenAI创始人Altman计划于二月中旬访问印度。",
-          "url": "https://flash.jin10.com/detail/20260123233248519800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "谷歌高管谈AI开发的危与机",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%AE%A1%E8%B0%88AI%E5%BC%80%E5%8F%91%E7%9A%84%E5%8D%B1%E4%B8%8E%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "00时23分"
         }
       ]
     }
