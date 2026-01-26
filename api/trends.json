@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T21:43:38.398567+08:00",
-  "total_titles_processed": 1667,
+  "generated_at": "2026-01-26T22:27:43.141964+08:00",
+  "total_titles_processed": 1759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时35分 ~ 17时33分]"
+        },
+        {
+          "title": "据The Information：OpenAI在早期广告推广中寻求溢价定价。",
+          "url": "https://flash.jin10.com/detail/20260126220859936800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "具身智能机器人直连卫星，完成地面无网络环境自主作业",
