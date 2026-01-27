@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T22:28:56.642915+08:00",
-  "total_titles_processed": 2016,
+  "generated_at": "2026-01-27T23:31:50.105145+08:00",
+  "total_titles_processed": 2118,
   "failed_sources": [],
   "trends": [
     {
@@ -18,19 +18,33 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时31分 ~ 22时28分]"
+          "appearance_count": 9,
+          "time_info": "[16时31分 ~ 23时31分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时44分 ~ 22时28分]"
+          "appearance_count": 5,
+          "time_info": "[20时44分 ~ 23时31分]"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            13,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时44分 ~ 23时31分]"
         },
         {
           "title": "DeepSeek开源OCR 2模型",
@@ -44,18 +58,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时26分 ~ 19时22分]"
-        },
-        {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时44分 ~ 22时28分]"
         },
         {
           "title": "报道称，OpenAI首席信息安全官奈特即将离职。",
@@ -133,7 +135,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -221,7 +223,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         }
