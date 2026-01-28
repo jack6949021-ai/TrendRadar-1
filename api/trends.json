@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T13:27:14.691161+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-01-28T14:34:47.034763+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             4,
             10,
             9,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 12时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 14时34分]"
         },
         {
           "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
@@ -54,22 +55,24 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 14时34分]"
         },
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
           "url": "https://wallstreetcn.com/articles/3764292",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 14时34分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
