@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T21:48:20.419029+08:00",
-  "total_titles_processed": 2013,
+  "generated_at": "2026-01-28T22:28:46.126100+08:00",
+  "total_titles_processed": 2074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -58,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时40分 ~ 21时48分]"
+          "appearance_count": 18,
+          "time_info": "[09时40分 ~ 22时28分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时29分 ~ 16时31分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
+          "url": "https://flash.jin10.com/detail/20260128220815725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
