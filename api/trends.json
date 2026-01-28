@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T20:46:12.165960+08:00",
-  "total_titles_processed": 1912,
+  "generated_at": "2026-01-28T21:48:20.419029+08:00",
+  "total_titles_processed": 2013,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,19 @@
           "time_info": "[00时29分 ~ 07时21分]"
         },
         {
+          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+          "url": "https://wallstreetcn.com/articles/3764292",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[09时40分 ~ 21时48分]"
+        },
+        {
           "title": "详解DeepSeek新模型OCR2",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
           "source": "bilibili 热搜",
@@ -64,18 +77,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时29分 ~ 16时31分]"
-        },
-        {
-          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
-          "url": "https://wallstreetcn.com/articles/3764292",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时40分 ~ 20时46分]"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
