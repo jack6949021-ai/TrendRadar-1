@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T18:27:31.780228+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2026-01-28T19:22:29.788695+08:00",
+  "total_titles_processed": 1783,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             4,
             3,
             2,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时44分 ~ 18时27分]"
+          "appearance_count": 11,
+          "time_info": "[11时44分 ~ 19时22分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -73,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时40分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时40分 ~ 19时22分]"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
@@ -83,7 +84,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -177,7 +178,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -188,7 +189,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -199,7 +200,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -243,7 +244,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
