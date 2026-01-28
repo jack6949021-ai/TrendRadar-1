@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T12:43:05.610094+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-01-28T13:27:14.691161+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 12时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 13时27分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -48,6 +48,19 @@
           "time_info": "[00时29分 ~ 12时43分]"
         },
         {
+          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1999186592472986900",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 13时27分]"
+        },
+        {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
           "url": "https://wallstreetcn.com/articles/3764292",
           "source": "华尔街见闻",
@@ -55,20 +68,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 12时43分]"
-        },
-        {
-          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
-          "url": "https://www.zhihu.com/question/1999186592472986900",
-          "source": "知乎",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时43分]"
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 13时27分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
