@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T16:31:30.938631+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2026-01-28T17:33:30.257279+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
@@ -21,18 +21,6 @@
           "time_info": "[00时29分 ~ 13时27分]"
         },
         {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
           "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
           "url": "https://www.zhihu.com/question/1999186592472986900",
           "source": "知乎",
@@ -44,8 +32,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时44分 ~ 16时31分]"
+          "appearance_count": 9,
+          "time_info": "[11时44分 ~ 17时33分]"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时21分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -73,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时40分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时40分 ~ 17时33分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -87,6 +87,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时25分]"
+        },
+        {
+          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
+          "url": "https://www.cls.cn/detail/2272037",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 17时33分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -135,18 +147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时25分]"
-        },
-        {
-          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
-          "url": "https://www.cls.cn/detail/2272037",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 16时31分]"
         },
         {
           "title": "DeepSeek开源OCR 2模型",
