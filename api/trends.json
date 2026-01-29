@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T14:44:25.802805+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-01-29T15:39:37.711239+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时39分]"
         },
         {
           "title": "三星：公司将在Galaxy S26系列产品提供Agentic AI功能。",
@@ -71,7 +71,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         }
