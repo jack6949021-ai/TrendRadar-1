@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T01:36:36.016234+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-01-30T02:42:34.660221+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         },
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
           "url": "https://www.zhihu.com/question/1994095464539255007",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时42分]"
         }
       ]
     }
