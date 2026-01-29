@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T22:46:56.734621+08:00",
-  "total_titles_processed": 2122,
+  "generated_at": "2026-01-29T23:35:01.308110+08:00",
+  "total_titles_processed": 2207,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时40分 ~ 23时35分]"
+        },
+        {
+          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
+          "url": "https://www.zhihu.com/question/1994095464539255007",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[17时40分 ~ 22时46分]"
+          "time_info": "[19时30分 ~ 23时35分]"
         },
         {
           "title": "人类基因密码被谷歌AI破解",
@@ -36,27 +49,16 @@
           "time_info": "[12时07分 ~ 16时37分]"
         },
         {
-          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
-          "url": "https://www.zhihu.com/question/1994095464539255007",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时30分 ~ 22时46分]"
-        },
-        {
           "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
           "url": "https://www.zhihu.com/question/1999888901490304692",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时59分 ~ 22时46分]"
+          "appearance_count": 5,
+          "time_info": "[21时59分 ~ 23时35分]"
         },
         {
           "title": "三星：公司将在Galaxy S26系列产品提供Agentic AI功能。",
