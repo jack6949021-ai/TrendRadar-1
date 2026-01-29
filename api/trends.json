@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T03:31:27.071460+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-01-30T04:28:43.745329+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时28分]"
         },
         {
           "title": "谷歌DeepMind登Nature封面",
@@ -27,11 +27,12 @@
           "ranks": [
             6,
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时28分]"
         }
       ]
     }
