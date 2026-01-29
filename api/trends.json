@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T22:01:29.541013+08:00",
-  "total_titles_processed": 2051,
+  "generated_at": "2026-01-29T22:46:56.734621+08:00",
+  "total_titles_processed": 2122,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 22时01分]"
+          "appearance_count": 8,
+          "time_info": "[17时40分 ~ 22时46分]"
         },
         {
           "title": "人类基因密码被谷歌AI破解",
@@ -44,8 +44,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时30分 ~ 22时01分]"
+          "appearance_count": 6,
+          "time_info": "[19时30分 ~ 22时46分]"
         },
         {
           "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
@@ -55,8 +55,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时01分]"
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 22时46分]"
         },
         {
           "title": "三星：公司将在Galaxy S26系列产品提供Agentic AI功能。",
