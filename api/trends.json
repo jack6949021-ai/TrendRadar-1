@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T06:24:14.856318+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-01-31T07:24:32.833204+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时31分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[03时31分 ~ 07时24分]"
         },
         {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
