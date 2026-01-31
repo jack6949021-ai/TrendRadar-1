@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T14:36:55.203583+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-01-31T15:28:33.775657+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -67,11 +67,12 @@
             9,
             16,
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 15时28分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
