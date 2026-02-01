@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T20:44:51.305630+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-02-01T21:42:39.642740+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -98,11 +98,12 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时44分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时42分]"
         },
         {
           "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
@@ -111,11 +112,12 @@
           "ranks": [
             1,
             13,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 20时44分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时42分]"
         },
         {
           "title": "全球首款完全仿生具身智能机器人亮相",
@@ -135,11 +137,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时44分]"
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时42分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
@@ -147,22 +150,24 @@
           "source": "金十数据",
           "ranks": [
             11,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时44分]"
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时42分]"
         },
         {
           "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时42分]"
         }
       ]
     }
