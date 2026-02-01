@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T01:23:56.737872+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2026-02-02T02:32:46.760081+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         },
         {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         },
         {
           "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
@@ -37,8 +37,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -48,8 +48,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         }
       ]
     }
