@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T07:21:31.725351+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-02-01T10:08:16.127074+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "UP体验谷歌最新世界模型",
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 10时08分]"
         },
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -69,6 +69,29 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
+          "title": "揭秘OpenAI掌门人的上位史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98OpenAI%E6%8E%8C%E9%97%A8%E4%BA%BA%E7%9A%84%E4%B8%8A%E4%BD%8D%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时23分 ~ 10时08分]"
+        },
+        {
           "title": "全球首款完全仿生具身智能机器人亮相",
           "url": "https://www.toutiao.com/trending/7601044218057506862/",
           "source": "今日头条",
@@ -79,17 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时23分 ~ 07时21分]"
         }
       ]
     }
