@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T07:23:27.865034+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-02-02T10:01:32.161036+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 10时01分]"
         },
         {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
