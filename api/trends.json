@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T10:01:32.161036+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-02-02T12:31:38.240232+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 10时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时31分]"
         },
         {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
           "url": "https://wallstreetcn.com/articles/3764694",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 12时31分]"
         },
         {
           "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
