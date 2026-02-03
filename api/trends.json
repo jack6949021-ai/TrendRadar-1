@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T16:35:38.119023+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-02-03T17:39:47.675156+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI：Codex应用今日在MacOS上线。",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
+          "url": "https://www.cls.cn/detail/2278690",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "OpenAI：通过使用Codex，人们可以轻松实现多任务处理，比如并行处理多个代理，并通过工作树隔离代理之间的变更；建立并运用技能，如将工具和规范整合为可重复使用的功能模块；设置自动化流程，如将重复性工作委托给Codex，并通过后台的定时工作流来完成。",
