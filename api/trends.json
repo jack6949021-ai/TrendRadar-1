@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T17:39:47.675156+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2026-02-03T18:38:35.049736+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,17 @@
           "time_info": "[01时37分 ~ 02时45分]"
         },
         {
+          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
+          "url": "https://www.cls.cn/detail/2278690",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时38分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
           "url": "https://flash.jin10.com/detail/20260203010817118800",
           "source": "金十数据",
@@ -62,17 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
-          "url": "https://www.cls.cn/detail/2278690",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
         },
         {
           "title": "OpenAI：通过使用Codex，人们可以轻松实现多任务处理，比如并行处理多个代理，并通过工作树隔离代理之间的变更；建立并运用技能，如将工具和规范整合为可重复使用的功能模块；设置自动化流程，如将重复性工作委托给Codex，并通过后台的定时工作流来完成。",
