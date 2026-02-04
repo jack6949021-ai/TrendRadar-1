@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T15:43:05.075202+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-02-04T16:39:45.716888+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 15时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 16时39分]"
         },
         {
           "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
