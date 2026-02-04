@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T14:49:52.281308+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-02-04T15:43:05.075202+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时52分 ~ 14时49分]"
+          "appearance_count": 17,
+          "time_info": "[00时52分 ~ 15时43分]"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 15时43分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -52,18 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 14时49分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -242,7 +243,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
