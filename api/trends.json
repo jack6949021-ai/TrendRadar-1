@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T02:46:58.424596+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-02-07T03:37:41.858772+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 02时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 03时37分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -48,7 +48,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
@@ -81,7 +81,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
         },
