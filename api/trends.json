@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T05:29:13.531991+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-02-07T06:22:12.612202+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[04时32分 ~ 06时22分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -48,9 +48,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
+          "url": "https://flash.jin10.com/detail/20260207035802693800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时32分 ~ 06时22分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -63,17 +74,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时46分]"
-        },
-        {
-          "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
-          "url": "https://flash.jin10.com/detail/20260207035802693800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时29分]"
         },
         {
           "title": "英伟达CEO黄仁勋：与OpenAI并无矛盾。他们需要我公司的新一代芯片。",
