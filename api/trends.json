@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T20:44:02.074510+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2026-02-07T21:42:52.411025+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时40分 ~ 20时44分]"
+          "appearance_count": 10,
+          "time_info": "[14时40分 ~ 21时42分]"
         },
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
