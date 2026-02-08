@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T21:44:11.521737+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-02-08T22:26:41.235056+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时31分 ~ 21时44分]"
+          "appearance_count": 9,
+          "time_info": "[16时31分 ~ 22时26分]"
         },
         {
           "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
