@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T10:01:37.135326+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-02-12T12:31:30.510659+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 10时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 12时31分]"
         },
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
@@ -47,11 +48,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 10时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 12时31分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -72,11 +74,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时28分 ~ 10时01分]"
+          "appearance_count": 5,
+          "time_info": "[06时28分 ~ 12时31分]"
         },
         {
           "title": "谷歌的母公司 Alphabet 拟发行百年期债券，科技圈 30 年来首次，如何解读？",
@@ -85,7 +88,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
