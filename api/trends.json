@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T22:46:00.972212+08:00",
-  "total_titles_processed": 1902,
+  "generated_at": "2026-02-12T23:52:04.594826+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -41,11 +41,12 @@
             8,
             10,
             13,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 19时39分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 23时52分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -83,11 +84,23 @@
             8,
             9,
             20,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时33分 ~ 22时46分]"
+          "appearance_count": 24,
+          "time_info": "[00时33分 ~ 23时52分]"
+        },
+        {
+          "title": "Deepseek被指变冷淡了",
+          "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时51分 ~ 23时52分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
