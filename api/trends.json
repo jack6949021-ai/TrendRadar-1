@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T19:39:28.933663+08:00",
-  "total_titles_processed": 1662,
+  "generated_at": "2026-02-12T21:03:44.502416+08:00",
+  "total_titles_processed": 1782,
   "failed_sources": [],
   "trends": [
     {
@@ -62,19 +62,6 @@
           "time_info": "[06时28分 ~ 18时43分]"
         },
         {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 19时39分]"
-        },
-        {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
           "url": "https://wallstreetcn.com/articles/3765457",
           "source": "华尔街见闻",
@@ -86,6 +73,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 10时01分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 21时03分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
@@ -107,7 +108,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
