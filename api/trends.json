@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-13T03:04:00.907304+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-02-13T04:33:43.299748+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
       "match_count": 12,
       "titles": [
+        {
+          "title": "Deepseek被指变冷淡了",
+          "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            7,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时33分]"
+        },
         {
           "title": "谷歌再遭欧盟反垄断调查 涉及非法操纵广告定价",
           "url": "https://flash.jin10.com/detail/20260213014623194800",
@@ -19,17 +33,30 @@
           "time_info": "01时57分"
         },
         {
-          "title": "Deepseek被指变冷淡了",
-          "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            7,
-            6
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时33分]"
+        },
+        {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            14,
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时33分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅迅速扩大至0.8%，刷新日高。",
@@ -54,30 +81,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时57分]"
-        },
-        {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时04分]"
-        },
-        {
-          "title": "UP主实测DeepSeek新模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -108,7 +111,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         },
