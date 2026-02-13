@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T22:02:23.191087+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2026-02-13T23:40:46.935302+08:00",
+  "total_titles_processed": 1976,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 10时04分]"
+        },
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时40分 ~ 23时40分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -57,20 +71,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时56分 ~ 19时31分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时40分 ~ 22时02分]"
         },
         {
           "title": "谷歌再遭欧盟反垄断调查 涉及非法操纵广告定价",
@@ -309,7 +309,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
