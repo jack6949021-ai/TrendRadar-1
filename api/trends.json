@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T10:04:43.563979+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-02-13T12:52:11.920363+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 12时52分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -51,19 +51,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 10时04分]"
-        },
-        {
-          "title": "DeepSeek变冷淡了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 12时52分]"
         },
         {
           "title": "谷歌再遭欧盟反垄断调查 涉及非法操纵广告定价",
@@ -83,9 +72,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "DeepSeek变冷淡了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 12时52分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅迅速扩大至0.8%，刷新日高。",
@@ -165,7 +166,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -187,7 +188,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -198,7 +199,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
