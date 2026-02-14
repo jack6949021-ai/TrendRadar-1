@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T22:25:52.414244+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2026-02-14T23:24:11.742005+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "DeepSeek春节再扔王炸？最新披露",
@@ -22,6 +22,20 @@
           "time_info": "[14时42分 ~ 22时25分]"
         },
         {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[14时42分 ~ 23时24分]"
+        },
+        {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
           "url": "https://www.zhihu.com/question/2005557043939993512",
           "source": "知乎",
@@ -34,19 +48,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时43分 ~ 07时29分]"
-        },
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时42分 ~ 22时25分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
@@ -76,8 +77,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时10分 ~ 22时25分]"
+          "appearance_count": 17,
+          "time_info": "[12时10分 ~ 23时24分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -216,11 +217,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 22时25分]"
+          "appearance_count": 3,
+          "time_info": "[21时43分 ~ 23时24分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -229,11 +231,12 @@
           "ranks": [
             7,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时25分]"
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 23时24分]"
         },
         {
           "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
@@ -282,6 +285,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
+        },
+        {
+          "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32609556",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
         },
         {
           "title": "Gemini3深度思考模型重磅升级",
