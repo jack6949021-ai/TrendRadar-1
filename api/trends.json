@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T22:26:10.671351+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-02-15T23:23:55.666470+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时03分 ~ 22时26分]"
+          "appearance_count": 16,
+          "time_info": "[10时03分 ~ 23时23分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -107,19 +107,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时21分 ~ 22时26分]"
+          "appearance_count": 6,
+          "time_info": "[19时21分 ~ 23时23分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
           "url": "https://wallstreetcn.com/articles/3765755",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时44分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[21时44分 ~ 23时23分]"
         },
         {
           "title": "DeepSeek“变冷淡”不是翻车",
