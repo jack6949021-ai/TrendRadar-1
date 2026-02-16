@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T06:26:54.412660+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-02-17T07:28:33.765879+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时28分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -51,11 +51,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时26分]"
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 07时28分]"
+        },
+        {
+          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
+          "url": "https://wallstreetcn.com/livenews/3055834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时27分 ~ 07时28分]"
         },
         {
           "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
@@ -64,18 +78,6 @@
           "ranks": [
             6,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时26分]"
-        },
-        {
-          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
-          "url": "https://wallstreetcn.com/livenews/3055834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -100,7 +102,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         }
