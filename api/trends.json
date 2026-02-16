@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T09:59:42.714082+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-02-16T12:31:15.146897+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时31分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时31分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -96,6 +97,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时25分]"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
         }
       ]
     }
