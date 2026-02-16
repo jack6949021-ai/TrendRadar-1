@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T22:08:04.273829+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-02-16T23:39:45.217612+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时30分 ~ 22时08分]"
+          "appearance_count": 14,
+          "time_info": "[12时30分 ~ 23时39分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -83,11 +83,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时39分 ~ 22时08分]"
+          "appearance_count": 6,
+          "time_info": "[19时39分 ~ 23时39分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -185,6 +186,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         }
       ]
     }
