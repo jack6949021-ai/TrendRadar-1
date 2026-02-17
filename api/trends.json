@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T09:57:39.695765+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-02-17T12:21:42.659281+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时21分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -43,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时21分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
