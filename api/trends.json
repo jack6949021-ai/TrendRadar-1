@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T19:39:21.274178+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-02-17T20:59:43.864186+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 19时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时40分 ~ 20时59分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
