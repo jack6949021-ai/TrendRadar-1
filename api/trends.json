@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T16:42:53.735014+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-02-17T17:46:55.639937+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 16时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 17时46分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -46,8 +46,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 16时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 17时46分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -113,6 +113,17 @@
           "time_info": "[00时41分 ~ 01时37分]"
         },
         {
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "OpenAI：系统已恢复全面运作。",
           "url": "https://flash.jin10.com/detail/20260217052259501800",
           "source": "金十数据",
@@ -130,7 +141,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
