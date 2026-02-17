@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T07:28:33.765879+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-02-17T09:57:39.695765+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 09时57分]"
+        },
+        {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
           "url": "https://wallstreetcn.com/articles/3765772",
           "source": "华尔街见闻",
           "ranks": [
             4,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时28分]"
-        },
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -42,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 09时57分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -52,11 +53,12 @@
           "ranks": [
             1,
             11,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时27分 ~ 07时28分]"
+          "appearance_count": 4,
+          "time_info": "[05时27分 ~ 09时57分]"
         },
         {
           "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
