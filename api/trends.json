@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T03:47:00.002262+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-02-19T04:37:41.706057+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 03时46分]"
+          "appearance_count": 3,
+          "time_info": "[02时53分 ~ 04时37分]"
         },
         {
           "title": "北欧音乐流媒体公司Spotify涨幅收窄至3.5%，此前一度涨5.3%。 谷歌公司增添音乐生成功能到Gemini APP。",
