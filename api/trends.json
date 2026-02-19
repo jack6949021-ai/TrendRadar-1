@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T18:41:40.423665+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-02-19T19:37:55.231523+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌CEO皮查伊：今天在印度人工智能行动峰会上发表讲话，对我来说是一种极高的荣幸。人工智能能够改善数十亿人的生活，并解决科学领域中一些最为棘手的问题。人工智能所能带来的最佳成果并非是必然能够实现的。我们必须大胆地探索人工智能，以负责任的态度对待它，并携手共度这一时刻。",
@@ -79,6 +79,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "北欧音乐流媒体公司Spotify涨幅收窄至3.5%，此前一度涨5.3%。 谷歌公司增添音乐生成功能到Gemini APP。",
