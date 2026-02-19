@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T05:30:59.876443+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-02-20T06:30:54.076186+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 06时30分]"
         },
         {
           "title": "Deepseek神回复",
