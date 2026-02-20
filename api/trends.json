@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T12:15:07.025446+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-02-20T13:53:10.638996+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://www.zhihu.com/question/2007991688078045862",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 13时53分]"
         },
         {
           "title": "Deepseek神回复",
