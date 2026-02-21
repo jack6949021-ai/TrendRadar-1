@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T01:24:19.556462+08:00",
-  "total_titles_processed": 339,
+  "generated_at": "2026-02-22T02:33:30.294028+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时33分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时33分]"
         },
         {
           "title": "中信建投：原生多模态与世界模型技术共同演进将重塑多个产业格局",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时33分]"
         }
       ]
     }
