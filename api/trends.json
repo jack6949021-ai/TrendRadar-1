@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T14:40:04.708263+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-02-21T15:31:47.094381+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时28分 ~ 14时40分]"
+          "appearance_count": 9,
+          "time_info": "[06时28分 ~ 15时31分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -26,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 15时31分]"
         },
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -41,11 +42,12 @@
             9,
             20,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 15时31分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -96,11 +98,12 @@
           "ranks": [
             7,
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 15时31分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
