@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T17:29:32.498204+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-02-22T18:23:45.853856+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 17时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 18时23分]"
         },
         {
           "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 17时29分]"
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 18时23分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -47,8 +47,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 18时23分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -63,11 +63,12 @@
             5,
             13,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 17时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 18时23分]"
         },
         {
           "title": "中信建投：原生多模态与世界模型技术共同演进将重塑多个产业格局",
@@ -88,11 +89,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时35分 ~ 17时29分]"
+          "appearance_count": 5,
+          "time_info": "[15时35分 ~ 18时23分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
