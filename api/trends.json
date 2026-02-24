@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T04:33:51.240261+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-02-25T05:33:16.863499+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -35,11 +35,12 @@
           "url": "https://www.toutiao.com/trending/7610332842534374955/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[03时59分 ~ 05时33分]"
         },
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
