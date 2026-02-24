@@ -1,141 +1,22 @@
 {
-  "generated_at": "2026-02-24T23:57:23.036513+08:00",
-  "total_titles_processed": 1879,
+  "generated_at": "2026-02-25T01:05:50.381074+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 11,
+      "match_count": 1,
       "titles": [
         {
-          "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑” 让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
-          "url": "https://www.cls.cn/detail/2293320",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时58分 ~ 19时41分]"
-        },
-        {
-          "title": "中方回应美称DeepSeek违反美出口管制",
-          "url": "https://www.toutiao.com/trending/7610332842534374955/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时44分 ~ 19时41分]"
-        },
-        {
-          "title": "如何看待 Anthropic 指控 DeepSeek 、 Kimi 和 MiniMax 「蒸馏攻击」其模型?",
-          "url": "https://www.zhihu.com/question/2009538062087123054",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时41分 ~ 21时04分]"
-        },
-        {
-          "title": "松延动力姜哲源：具身智能产业“马拉松”刚跑了十米",
-          "url": "https://wallstreetcn.com/livenews/3057699",
+          "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
+          "url": "https://wallstreetcn.com/livenews/3058254",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
-          "url": "https://wallstreetcn.com/livenews/3057622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 05时18分]"
-        },
-        {
-          "title": "中方回应美称DeepSeek违反出口管制",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E7%A7%B0DeepSeek%E8%BF%9D%E5%8F%8D%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时51分 ~ 19时41分]"
-        },
-        {
-          "title": "广东省委书记黄坤明：最大限度为技术创新和市场探索“松绑”，让低空经济“飞”起来、自动驾驶“跑”起来、具身智能“用”起来",
-          "url": "https://wallstreetcn.com/livenews/3057847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 13时58分]"
-        },
-        {
-          "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
-          "url": "https://flash.jin10.com/detail/20260224031211079800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "加拿大政府：在应对OpenAI时“所有选项都摆在桌面上”。",
-          "url": "https://flash.jin10.com/detail/20260224030646410800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "谷歌表示，ProdureAI将加入谷歌实验室。",
-          "url": "https://flash.jin10.com/detail/20260224221205836800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
-          "url": "https://flash.jin10.com/detail/20260224001507325800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "01时05分"
         }
       ]
     }
