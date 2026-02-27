@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T20:55:42.909906+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2026-02-27T21:59:50.996009+08:00",
+  "total_titles_processed": 1928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 22,
+      "match_count": 45,
       "titles": [
         {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI将通过亚马逊云科技（AWS）基础设施使用2吉瓦的Trainium芯片计算能力。",
+          "url": "https://flash.jin10.com/detail/20260227213826999800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "硅谷“最贵华人”被OpenAI挖走",
@@ -32,6 +43,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时51分 ~ 19时31分]"
+        },
+        {
+          "title": "亚马逊将向OpenAI投资500亿美元",
+          "url": "https://flash.jin10.com/detail/20260227213821410800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "亚马逊股价盘前下跌0.9%，此前该公司宣布计划投资OpenAI。 微软股价盘前下跌2.4%，谷歌A下跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3060342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "如何评价消息称 DeepSeek V4 打破常规优先适配华为，冷落英伟达 AMD？会带来什么影响？",
@@ -56,6 +89,28 @@
           "time_info": "07时28分"
         },
         {
+          "title": "亚马逊(AMZN.O)：能够定制OpenAI模型以应用于各类人工智能产品。",
+          "url": "https://flash.jin10.com/detail/20260227213746947800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "OpenAI获1100亿美元投资，投前估值达7300亿美元",
+          "url": "https://wallstreetcn.com/livenews/3060345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "据The Information：Meta公司也在与谷歌商谈，计划最早于明年为其数据中心购买TPU。",
           "url": "https://flash.jin10.com/detail/20260227071739308800",
           "source": "金十数据",
@@ -67,6 +122,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "亚马逊将向OpenAI投资500亿美元 建立多年战略伙伴关系",
+          "url": "https://wallstreetcn.com/livenews/3060341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "据The Information：Meta公司已签署协议，租用谷歌的人工智能芯片——即TPU，用于开发新的人工智能模型。",
           "url": "https://flash.jin10.com/detail/20260227071725621800",
           "source": "金十数据",
@@ -76,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "微软(MSFT.O)与OpenAI将在研究和工程领域紧密合作。",
+          "url": "https://flash.jin10.com/detail/20260227213634084800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
@@ -161,6 +238,61 @@
           "time_info": "07时28分"
         },
         {
+          "title": "OpenAI：承诺消耗约2吉瓦的训练算力。",
+          "url": "https://flash.jin10.com/detail/20260227213613966800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "OpenAI：ChatGPT每周活跃用户超过9亿。",
+          "url": "https://flash.jin10.com/detail/20260227213553114800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "OpenAI：Trinium4预计将于2027年开始交付。",
+          "url": "https://flash.jin10.com/detail/20260227213537292800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "微软(MSFT.O)：新融资不会改变与OpenAI的关系。",
+          "url": "https://flash.jin10.com/detail/20260227213527626800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "OpenAI：协议涵盖Tranium 3和下一代Tranium 4。",
+          "url": "https://flash.jin10.com/detail/20260227213513559800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
           "url": "https://flash.jin10.com/detail/20260227025809636800",
           "source": "金十数据",
@@ -172,6 +304,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "OpenAI扩大与英伟达(NVDA.O)的长期协议。",
+          "url": "https://flash.jin10.com/detail/20260227213459303800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "韩国批准谷歌的地图数据出口申请。",
           "url": "https://flash.jin10.com/detail/20260227130247973800",
           "source": "金十数据",
@@ -181,6 +324,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "OpenAI基金会持有的OpenAI集团股份价值升至逾1800亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213444121800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "软银：交易完成后对OpenAI持股比例约为13%。",
+          "url": "https://flash.jin10.com/detail/20260227213434251800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
@@ -216,6 +381,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "软银对OpenAI的累计投资预计达646亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213400594800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "谷歌：在谷歌翻译中推出全新人工智能驱动功能。",
           "url": "https://flash.jin10.com/detail/20260227020416151800",
           "source": "金十数据",
@@ -225,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "OpenAI的融资包括来自英伟达(NVDA.O)的300亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213347014800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "媒体消息称，韩国批准谷歌出口地图数据的申请。（路透）",
@@ -238,6 +425,39 @@
           "time_info": "13时51分"
         },
         {
+          "title": "OpenAI与亚马逊(AMZN.O)将开发定制模型。",
+          "url": "https://flash.jin10.com/detail/20260227213324674800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "OpenAI的融资包括来自软银的300亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213310566800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "OpenAI宣布以7300亿美元的估值获得1100亿美元的新投资。",
+          "url": "https://flash.jin10.com/detail/20260227213252837800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "谷歌深夜发布生图模型Nano Banana 2",
           "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%B7%B1%E5%A4%9C%E5%8F%91%E5%B8%83%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8BNano+Banana+2",
           "source": "百度热搜",
@@ -249,6 +469,17 @@
           "time_info": "12时12分"
         },
         {
+          "title": "亚马逊(AMZN.O)：OpenAI与亚马逊云服务(AWS)正在其现有380亿美元多年协议的基础上，再追加1000亿美元、为期8年的合作。",
+          "url": "https://flash.jin10.com/detail/20260227213212397800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "谷歌推出最新图像模型Nano Banana 2",
           "url": "https://flash.jin10.com/detail/20260227001845830800",
           "source": "金十数据",
@@ -258,6 +489,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：亚马逊将向OpenAI投资500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213129329800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "OpenAI与亚马逊(AMZN.O)宣布达成合作。",
+          "url": "https://flash.jin10.com/detail/20260227213023951800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     }
