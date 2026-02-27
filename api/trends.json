@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T16:38:58.406505+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-02-27T17:39:17.531773+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
@@ -87,6 +87,19 @@
           "time_info": "[09时53分 ~ 14时52分]"
         },
         {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            26,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 17时39分]"
+        },
+        {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
           "url": "https://wallstreetcn.com/livenews/3059712",
           "source": "华尔街见闻-快讯",
@@ -98,18 +111,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 04时35分]"
-        },
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 16时38分]"
         },
         {
           "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
