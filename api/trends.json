@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T15:44:50.023588+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-02-27T16:38:58.406505+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
@@ -100,6 +100,18 @@
           "time_info": "[02时53分 ~ 04时35分]"
         },
         {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 16时38分]"
+        },
+        {
           "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2010521633262101357",
           "source": "知乎",
@@ -133,18 +145,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时28分]"
-        },
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 15时44分]"
         },
         {
           "title": "据The Information：谷歌与Meta公司达成数十亿美元的人工智能芯片交易。",
