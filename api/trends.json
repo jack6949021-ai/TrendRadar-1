@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T03:20:27.916833+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-03-01T04:24:26.954654+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时24分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -26,11 +26,12 @@
             12,
             17,
             20,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时24分]"
         },
         {
           "title": "如何评价 DeepSeek 发布新论文，提出一个名为「DualPath」的创新推理系统？有哪些亮点？",
