@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T21:36:04.895338+08:00",
-  "total_titles_processed": 1988,
+  "generated_at": "2026-02-28T22:21:10.951987+08:00",
+  "total_titles_processed": 2065,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时27分 ~ 21时36分]"
+          "appearance_count": 10,
+          "time_info": "[16时27分 ~ 22时21分]"
         },
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
@@ -34,8 +34,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[05时28分 ~ 21时36分]"
+          "appearance_count": 22,
+          "time_info": "[05时28分 ~ 22时21分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -61,11 +61,12 @@
             13,
             17,
             28,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时36分 ~ 21时36分]"
+          "appearance_count": 13,
+          "time_info": "[14时36分 ~ 22时21分]"
         },
         {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
@@ -97,11 +98,12 @@
           "url": "https://www.zhihu.com/question/2010670686461452529",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 21时36分]"
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 22时21分]"
         },
         {
           "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
@@ -114,6 +116,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[19时17分 ~ 21时36分]"
+        },
+        {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时41分 ~ 22时21分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -202,18 +217,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 04时26分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 21时36分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
