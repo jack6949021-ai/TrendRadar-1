@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T15:26:05.843365+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-02-28T16:27:52.017800+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时28分 ~ 15时26分]"
+          "appearance_count": 13,
+          "time_info": "[05时28分 ~ 16时27分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -33,8 +33,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时34分 ~ 15时26分]"
+          "appearance_count": 19,
+          "time_info": "[01时34分 ~ 16时27分]"
         },
         {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
@@ -155,11 +155,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 15时26分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 16时27分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
@@ -197,6 +198,17 @@
           "time_info": "[15时25分 ~ 15时26分]"
         },
         {
+          "title": "我国首个国家级人形机器人与具身智能标准体系发布",
+          "url": "https://www.cls.cn/detail/2298138",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
           "url": "https://flash.jin10.com/detail/20260228080935525800",
           "source": "金十数据",
@@ -225,7 +237,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
