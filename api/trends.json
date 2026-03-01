@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T05:21:38.970528+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-03-02T06:22:46.341748+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -25,11 +25,12 @@
           "ranks": [
             17,
             15,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时22分]"
         }
       ]
     }
