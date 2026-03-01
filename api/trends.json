@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T15:32:25.665008+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-03-01T16:29:40.041807+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 16时29分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -49,8 +49,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 15时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 16时29分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
