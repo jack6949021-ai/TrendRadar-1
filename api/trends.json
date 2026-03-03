@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-03T18:37:30.730139+08:00",
-  "total_titles_processed": 1674,
+  "generated_at": "2026-03-03T19:31:54.610391+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 19时31分]"
+        },
         {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
           "url": "https://flash.jin10.com/detail/20260303052851593800",
@@ -20,18 +33,6 @@
           "time_info": "[05时31分 ~ 06时28分]"
         },
         {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 18时37分]"
-        },
-        {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
           "url": "https://wallstreetcn.com/livenews/3062140",
           "source": "华尔街见闻-快讯",
@@ -42,6 +43,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "银河通用25亿元融资 成都国资入局具身智能",
+          "url": "https://wallstreetcn.com/livenews/3062746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "对话全国政协委员刘永好：建议面向工业制造、农牧业、医疗护理等场景，建设具身智能数据采集训练中心",
+          "url": "https://www.cls.cn/detail/2300665",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "OpenAI奥特曼：正与国防部合作，对合约进行一些补充。 新增内容将使“原则变得非常清晰”。 国防情报机构不会使用OpenAI的服务。 人工智能系统不应用于国内监控。",
