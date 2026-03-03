@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T21:59:36.024941+08:00",
-  "total_titles_processed": 1996,
+  "generated_at": "2026-03-03T22:52:53.388123+08:00",
+  "total_titles_processed": 2084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
@@ -18,8 +18,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时38分 ~ 21时59分]"
+          "appearance_count": 9,
+          "time_info": "[16时38分 ~ 22时52分]"
+        },
+        {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
@@ -57,6 +68,28 @@
           "time_info": "19时31分"
         },
         {
+          "title": "据AXIOS网站：OpenAI与美国国防部的新条款尚未正式签署。",
+          "url": "https://flash.jin10.com/detail/20260303222622632800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI与美国国防部同意加强近期合同。",
+          "url": "https://flash.jin10.com/detail/20260303222545463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "对话全国政协委员刘永好：建议面向工业制造、农牧业、医疗护理等场景，建设具身智能数据采集训练中心",
           "url": "https://www.cls.cn/detail/2300665",
           "source": "财联社热门",
@@ -66,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI、美国国防部在AI协议中加入监控保护措施。",
+          "url": "https://flash.jin10.com/detail/20260303222435130800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "OpenAI奥特曼：正与国防部合作，对合约进行一些补充。 新增内容将使“原则变得非常清晰”。 国防情报机构不会使用OpenAI的服务。 人工智能系统不应用于国内监控。",
@@ -118,7 +162,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         }
