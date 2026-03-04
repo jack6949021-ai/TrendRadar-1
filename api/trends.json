@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T05:33:22.360353+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-03-05T06:29:49.579369+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 06时29分]"
         },
         {
           "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
@@ -61,7 +61,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
