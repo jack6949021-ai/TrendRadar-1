@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T00:41:55.449147+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-05T01:38:20.701511+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -8,20 +8,20 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美媒：前OpenAI高管押注制造业自动化 为AI初创公司Arda融资7000万美元",
-          "url": "https://flash.jin10.com/detail/20260305002035785800",
-          "source": "金十数据",
+          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
+          "url": "https://www.zhihu.com/question/1922608207504867947",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时38分]"
         },
         {
-          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
-          "url": "https://www.zhihu.com/question/1922608207504867947",
-          "source": "知乎",
+          "title": "美媒：前OpenAI高管押注制造业自动化 为AI初创公司Arda融资7000万美元",
+          "url": "https://flash.jin10.com/detail/20260305002035785800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
