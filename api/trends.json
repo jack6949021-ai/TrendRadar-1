@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-03-05T07:28:40.599884+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-03-05T09:56:11.436845+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
           "url": "https://www.zhihu.com/question/1922608207504867947",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 09时56分]"
+        },
+        {
+          "title": "据The Information：OpenAI选定律师事务所Cooley和Wachtell为IPO做准备。",
+          "url": "https://flash.jin10.com/detail/20260305095057425800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
@@ -50,7 +62,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -64,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "据The Information：OpenAI正在缩减其ChatGPT结账功能的推广规模，这标志着其商业拓展策略出现突然转变。",
+          "url": "https://flash.jin10.com/detail/20260305093218910800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "美国总统特朗普：谷歌是一家好公司。",
@@ -83,7 +106,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
