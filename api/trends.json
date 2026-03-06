@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T13:44:11.877707+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-03-06T14:44:38.139261+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 13时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 14时44分]"
         },
         {
           "title": "政府工作报告提出培育发展未来能源、量子科技、具身智能、脑机接口、 6G 等未来产业，行业将迎来哪些利好？",
@@ -53,8 +53,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 13时44分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 14时44分]"
         },
         {
           "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
@@ -109,7 +109,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         }
