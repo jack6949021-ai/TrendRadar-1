@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-09T16:42:17.434260+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-03-09T17:49:01.144792+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "对话傅利叶顾捷：具身智能匹配康养刚需，上海成技术产业化最佳土壤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32727149",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
