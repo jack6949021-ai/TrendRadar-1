@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T16:33:18.688807+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-03-14T17:32:08.883242+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             4,
             7,
             10,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 16时33分]"
+          "appearance_count": 5,
+          "time_info": "[13时44分 ~ 17时32分]"
         },
         {
           "title": "据《白鲸实验室》报道，DeepSeek V4和姚顺雨领衔操刀的混元新模型，均预计将于下个月（2026年4月）发布。",
