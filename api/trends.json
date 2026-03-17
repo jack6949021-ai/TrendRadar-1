@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T18:50:18.856968+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-03-17T19:42:39.242468+08:00",
+  "total_titles_processed": 1724,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 18时50分]"
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 19时42分]"
         },
         {
           "title": "马斯克：若告赢OpenAI，上千亿美元收益全部捐给慈善机构。",
