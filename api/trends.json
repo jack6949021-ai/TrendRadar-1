@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T14:02:47.337808+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-03-18T15:51:50.752071+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 15时51分]"
         },
         {
           "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 15时51分]"
         },
         {
           "title": "王兴兴谈具身智能的GPT时刻",
@@ -48,11 +49,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 15时51分]"
         },
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
@@ -96,7 +98,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
