@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T13:57:37.638494+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-03-19T15:02:10.185051+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 13时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 15时02分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -30,11 +30,12 @@
             16,
             17,
             23,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 13时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 15时02分]"
         },
         {
           "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
