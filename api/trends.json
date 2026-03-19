@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T18:38:56.989121+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2026-03-19T19:35:08.680260+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时14分 ~ 18时38分]"
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 19时35分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -101,7 +101,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         }
