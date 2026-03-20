@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T01:35:11.044689+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-03-21T02:45:54.803756+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时45分]"
         },
         {
           "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
           "url": "https://www.zhihu.com/question/2016876183153768141",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 01时35分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 02时45分]"
         }
       ]
     }
