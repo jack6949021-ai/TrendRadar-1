@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T22:02:41.086713+08:00",
-  "total_titles_processed": 1967,
+  "generated_at": "2026-03-20T23:41:25.372631+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 22时02分]"
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 23时41分]"
         },
         {
           "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
@@ -123,7 +123,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         }
