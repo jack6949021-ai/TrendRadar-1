@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T15:07:41.717404+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-03-23T16:53:47.829774+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 15时07分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 16时53分]"
         },
         {
           "title": "具身智能资本局：百亿估值企业涌现，投融资热潮助推IPO奇点加速到来",
