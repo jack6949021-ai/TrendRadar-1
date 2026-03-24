@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T07:31:42.894035+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2026-03-24T09:55:38.373141+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 09时55分]"
         },
         {
           "title": "OpenAI的CEO Altman确认：退出Helion董事会。",
@@ -39,7 +39,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -50,7 +50,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
