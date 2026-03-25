@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T19:41:10.186668+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2026-03-25T21:06:05.045624+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
             19,
             25,
             16,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时01分 ~ 19时41分]"
+          "appearance_count": 15,
+          "time_info": "[10时01分 ~ 21时06分]"
         },
         {
           "title": "DeepSeek郭达雅被曝离职",
