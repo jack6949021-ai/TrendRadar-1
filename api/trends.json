@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T16:49:58.683281+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-03-25T17:53:01.240459+08:00",
+  "total_titles_processed": 1569,
   "failed_sources": [],
   "trends": [
     {
@@ -17,20 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 16时49分]"
-        },
-        {
-          "title": "DeepSeek郭达雅被曝离职",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 07时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 17时53分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -39,11 +27,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 16时49分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 17时53分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -57,8 +46,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 16时49分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 17时53分]"
+        },
+        {
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时31分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
