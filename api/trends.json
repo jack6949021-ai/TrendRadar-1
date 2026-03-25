@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-25T15:15:12.753619+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-03-25T16:49:58.683281+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
       "match_count": 24,
       "titles": [
+        {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 16时49分]"
+        },
         {
           "title": "DeepSeek郭达雅被曝离职",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
@@ -20,33 +33,6 @@
           "time_info": "[00时06分 ~ 07时31分]"
         },
         {
-          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
-          "url": "https://www.zhihu.com/question/2020036375211157322",
-          "source": "知乎",
-          "ranks": [
-            13,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时15分]"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            18,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时15分]"
-        },
-        {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
           "url": "https://www.cls.cn/detail/2323711",
           "source": "财联社热门",
@@ -56,8 +42,23 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 16时49分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            18,
+            19,
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 16时49分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
