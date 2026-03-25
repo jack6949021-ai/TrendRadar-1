@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T05:38:04.202169+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-03-26T06:34:52.011605+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             14,
             16,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 06时34分]"
         },
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
