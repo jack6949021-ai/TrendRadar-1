@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T03:54:22.172511+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-03-27T04:34:53.926451+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时34分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -28,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 04时34分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -47,11 +47,12 @@
           "url": "https://flash.jin10.com/detail/20260327032315760800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 04时34分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -60,7 +61,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
         },
