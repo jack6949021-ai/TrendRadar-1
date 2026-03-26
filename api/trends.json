@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T18:29:48.784433+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-03-26T19:03:49.010906+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时33分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[07时33分 ~ 19时03分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -32,8 +32,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时11分 ~ 18时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时11分 ~ 19时03分]"
         },
         {
           "title": "广东：锚定量子科技、具身智能等未来产业重点领域 加强前沿与颠覆性技术创新",
@@ -58,6 +58,19 @@
           "time_info": "01时58分"
         },
         {
+          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
+          "url": "https://wallstreetcn.com/articles/3768419",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 19时03分]"
+        },
+        {
           "title": "美国陪审团就涉及谷歌、Meta公司的青少年社交媒体成瘾案作出裁决。陪审团裁定Meta在社交媒体审判中因疏忽而承担责任。",
           "url": "https://flash.jin10.com/detail/20260326012111021800",
           "source": "金十数据",
@@ -69,19 +82,6 @@
           "time_info": "01时58分"
         },
         {
-          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
-          "url": "https://wallstreetcn.com/articles/3768419",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 18时29分]"
-        },
-        {
           "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
           "url": "https://www.cls.cn/detail/2325322",
           "source": "财联社热门",
@@ -91,8 +91,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时06分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 19时03分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -130,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "宇树科技携手重庆大渡口区共建具身智能机器人西部创新运营中心",
+          "url": "https://flash.jin10.com/detail/20260326182427187800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美国社交媒体成瘾案陪审团裁定，谷歌需支付90万美元的惩罚性赔偿金。",
