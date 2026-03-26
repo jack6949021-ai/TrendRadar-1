@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T00:59:10.408720+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-03-27T02:02:34.367492+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -26,19 +26,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 00时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 02时02分]"
         },
         {
           "title": "谷歌公司Fiber更名为GFiber。",
@@ -47,7 +48,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
         }
