@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T15:05:06.186857+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-03-27T16:51:21.554047+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -38,11 +38,12 @@
           "ranks": [
             2,
             3,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时08分 ~ 15时05分]"
+          "appearance_count": 6,
+          "time_info": "[10时08分 ~ 16时51分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -55,6 +56,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 07时31分]"
+        },
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 16时51分]"
         },
         {
           "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
@@ -71,16 +85,16 @@
           "time_info": "[06时28分 ~ 13时06分]"
         },
         {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            4
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时06分 ~ 15时05分]"
+          "time_info": "[15时04分 ~ 16时51分]"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
@@ -95,17 +109,6 @@
           "time_info": "[05时31分 ~ 06时28分]"
         },
         {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 15时05分]"
-        },
-        {
           "title": "谷歌：用户可以将其他AI应用的记忆转移到Gemini。",
           "url": "https://flash.jin10.com/detail/20260327032315760800",
           "source": "金十数据",
@@ -116,6 +119,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 04时34分]"
+        },
+        {
+          "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
+          "url": "https://www.cls.cn/detail/2326356",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
+          "url": "https://www.cls.cn/detail/2326397",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
