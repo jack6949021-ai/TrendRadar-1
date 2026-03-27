@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T17:54:06.021693+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-03-27T18:46:04.971256+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,26 @@
             3,
             15,
             13,
-            17
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时08分 ~ 18时46分]"
+        },
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4,
+            5,
+            16
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时08分 ~ 17时54分]"
+          "time_info": "[13时06分 ~ 18时46分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -32,19 +47,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时58分 ~ 04时34分]"
-        },
-        {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时06分 ~ 17时54分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -72,6 +74,20 @@
           "time_info": "[00时58分 ~ 07时31分]"
         },
         {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时04分 ~ 18时46分]"
+        },
+        {
           "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
           "url": "https://www.zhihu.com/question/2015379461017659100",
           "source": "知乎",
@@ -86,29 +102,17 @@
           "time_info": "[06时28分 ~ 13时06分]"
         },
         {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时04分 ~ 17时54分]"
-        },
-        {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
           "url": "https://www.cls.cn/detail/2326397",
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 17时54分]"
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 18时46分]"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
