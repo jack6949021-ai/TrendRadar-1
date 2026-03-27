@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-03-27T16:51:21.554047+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-03-27T17:54:06.021693+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
       "match_count": 18,
       "titles": [
+        {
+          "title": "内存股大跌与谷歌论文有关吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            15,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 17时54分]"
+        },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
           "url": "https://wallstreetcn.com/articles/3768391",
@@ -17,6 +32,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时58分 ~ 04时34分]"
+        },
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时06分 ~ 17时54分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -32,20 +60,6 @@
           "time_info": "[00时58分 ~ 07时31分]"
         },
         {
-          "title": "内存股大跌与谷歌论文有关吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 16时51分]"
-        },
-        {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
@@ -56,19 +70,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 07时31分]"
-        },
-        {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时51分]"
         },
         {
           "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
@@ -90,11 +91,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            7
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时04分 ~ 17时54分]"
+        },
+        {
+          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
+          "url": "https://www.cls.cn/detail/2326397",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时04分 ~ 16时51分]"
+          "time_info": "[16时51分 ~ 17时54分]"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
@@ -127,18 +141,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
-          "url": "https://www.cls.cn/detail/2326397",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
