@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T05:32:54.189156+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-03-28T06:31:27.036594+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时31分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            18,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时31分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -31,8 +45,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时31分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -45,21 +59,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 05时32分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 05时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时31分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
