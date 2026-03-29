@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T21:52:54.441949+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-03-29T22:33:05.072434+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时01分 ~ 21时52分]"
+          "appearance_count": 12,
+          "time_info": "[15时01分 ~ 22时33分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -32,8 +32,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时10分 ~ 21时52分]"
+          "appearance_count": 15,
+          "time_info": "[10时10分 ~ 22时33分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -98,6 +98,17 @@
           "time_info": "[15时02分 ~ 18时32分]"
         },
         {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时27分 ~ 22时33分]"
+        },
+        {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
           "url": "https://www.zhihu.com/question/2021000785224287940",
           "source": "知乎",
@@ -109,15 +120,15 @@
           "time_info": "[15时01分 ~ 16时39分]"
         },
         {
-          "title": "新算法公布,谷歌干崩股市",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
-          "source": "贴吧",
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时52分]"
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 22时33分]"
         },
         {
           "title": "谷歌称可节省内存的刷屏论文 TurboQuant 被 RaBitQ 作者指出存在严重错误",
