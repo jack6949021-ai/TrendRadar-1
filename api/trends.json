@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T15:56:54.031764+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-03-29T16:39:33.381160+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
@@ -55,20 +55,6 @@
           "time_info": "[00时32分 ~ 07时29分]"
         },
         {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 15时56分]"
-        },
-        {
           "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
           "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
           "source": "知乎",
@@ -76,8 +62,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 15时56分]"
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 16时39分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7,
+            13,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时10分 ~ 16时39分]"
         },
         {
           "title": "宇树科技王兴兴：具身智能GPT时刻大概还需两到三年",
@@ -85,11 +86,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 16时39分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -99,8 +101,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 15时56分]"
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 16时39分]"
         },
         {
           "title": "谷歌称可节省内存的刷屏论文 TurboQuant 被 RaBitQ 作者指出存在严重错误",
