@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T03:32:39.002231+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-03-30T04:29:54.891567+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -30,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "新算法公布,谷歌干崩股市",
@@ -42,8 +42,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -56,8 +56,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
         }
       ]
     }
