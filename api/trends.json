@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T06:33:59.425940+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-03-31T07:34:03.602491+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时34分]"
         },
         {
           "title": "具身智能领域首份行业标准发布",
@@ -32,8 +32,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时33分]"
+          "appearance_count": 4,
+          "time_info": "[05时40分 ~ 07时34分]"
         },
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
@@ -46,8 +46,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 06时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时54分 ~ 07时34分]"
         }
       ]
     }
