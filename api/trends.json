@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T04:31:09.439242+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-03-31T04:43:30.036668+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,24 @@
             17,
             23,
             21,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时43分]"
         },
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
           "url": "https://www.toutiao.com/trending/7622965821714730505/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 04时43分]"
         }
       ]
     }
