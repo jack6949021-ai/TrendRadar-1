@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T21:56:56.259703+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-03-30T23:03:17.380472+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 21时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 23时03分]"
         },
         {
           "title": "DeepSeek宕机12小时后恢复服务",
@@ -191,7 +191,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
