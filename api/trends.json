@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T10:13:29.982602+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-03-30T13:23:01.689932+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "DeepSeek崩了",
@@ -40,11 +40,12 @@
           "ranks": [
             12,
             14,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时23分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -54,11 +55,12 @@
             29,
             24,
             22,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时23分]"
         },
         {
           "title": "DeepSeek公告服务出现重大中断",
@@ -67,9 +69,53 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "豆包谈DeepSeek频繁崩溃",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E8%B0%88DeepSeek%E9%A2%91%E7%B9%81%E5%B4%A9%E6%BA%83%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "DeepSeek宕机12小时后恢复服务",
+          "url": "https://www.toutiao.com/trending/7622849000173178419/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "百亿具身智能产业五家头部厂商创始人罕见同台 “量产前夜”热议数据挑战、标准研制、投融资",
@@ -78,7 +124,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -89,7 +135,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -100,7 +146,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -111,7 +157,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -122,7 +168,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         },
@@ -133,7 +179,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         }
