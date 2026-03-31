@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-31T07:34:03.602491+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-03-31T10:09:12.975949+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
       "match_count": 3,
       "titles": [
+        {
+          "title": "具身智能领域首份行业标准发布",
+          "url": "https://www.toutiao.com/trending/7622863629935558675/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时40分 ~ 10时09分]"
+        },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
@@ -23,17 +34,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时54分 ~ 07时34分]"
-        },
-        {
-          "title": "具身智能领域首份行业标准发布",
-          "url": "https://www.toutiao.com/trending/7622863629935558675/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时40分 ~ 07时34分]"
         },
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
