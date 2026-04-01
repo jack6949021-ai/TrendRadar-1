@@ -1,128 +1,22 @@
 {
-  "generated_at": "2026-04-01T23:03:11.310808+08:00",
-  "total_titles_processed": 1841,
+  "generated_at": "2026-04-02T00:53:15.343249+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
-          "title": "3 月 31 日 DeepSeek 服务中断一小时后恢复，什么情况？最近的三天两「崩」可能是什么原因？",
-          "url": "https://www.zhihu.com/question/2022371409997947809",
-          "source": "知乎",
-          "ranks": [
-            8,
-            12,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时25分 ~ 19时52分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 19时52分]"
-        },
-        {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
-          "source": "财联社热门",
+          "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3081032",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时23分]"
-        },
-        {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 15时18分]"
-        },
-        {
-          "title": "谷歌发布论文，在2029年期限前就量子风险向加密行业发出警告",
-          "url": "https://wallstreetcn.com/livenews/3080310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时01分]"
-        },
-        {
-          "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
-          "url": "https://wallstreetcn.com/livenews/3080357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时38分]"
-        },
-        {
-          "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
-          "url": "https://flash.jin10.com/detail/20260401041908272800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时38分]"
-        },
-        {
-          "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
-          "url": "https://flash.jin10.com/detail/20260401041102848800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "市场消息：OpenAI完成1220亿美元融资，估值达8520亿美元。",
-          "url": "https://flash.jin10.com/detail/20260401041014408800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "苹果、微软、谷歌等回吐涨幅，伊朗对18家美国科技公司发出打击警告",
-          "url": "https://wallstreetcn.com/livenews/3080254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
+          "time_info": "00时53分"
         }
       ]
     }
