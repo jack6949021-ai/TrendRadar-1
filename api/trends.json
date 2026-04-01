@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T18:54:14.544996+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2026-04-01T19:52:43.481777+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时25分 ~ 18时54分]"
+          "appearance_count": 8,
+          "time_info": "[10时25分 ~ 19时52分]"
+        },
+        {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 19时52分]"
         },
         {
           "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时25分 ~ 13时23分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 18时54分]"
         },
         {
           "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
