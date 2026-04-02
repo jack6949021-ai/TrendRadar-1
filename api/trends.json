@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-02T10:05:41.605757+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-04-02T13:02:06.083345+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "具身智能机器人加速发展",
+          "url": "https://www.douyin.com/hot/2452147",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
         {
           "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
           "url": "https://wallstreetcn.com/livenews/3081032",
