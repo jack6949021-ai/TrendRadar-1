@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T17:52:42.604306+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-04-03T18:41:56.573677+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时41分]"
         },
         {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
