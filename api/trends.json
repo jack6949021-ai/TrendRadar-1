@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T15:27:36.370218+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-04-06T17:07:14.624348+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,18 @@
           "time_info": "[05时31分 ~ 07时32分]"
         },
         {
+          "title": "微软谷歌争相与SK海力士洽谈DRAM“三年长约”，“打破惯例”引入底价保障及预付定金机制",
+          "url": "https://wallstreetcn.com/articles/3769294",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时14分 ~ 17时07分]"
+        },
+        {
           "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
           "url": "https://www.zhihu.com/question/2022702768251564692",
           "source": "知乎",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时35分 ~ 04时32分]"
-        },
-        {
-          "title": "微软谷歌争相与SK海力士洽谈DRAM“三年长约”，“打破惯例”引入底价保障及预付定金机制",
-          "url": "https://wallstreetcn.com/articles/3769294",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 15时27分]"
         },
         {
           "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
