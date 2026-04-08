@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T21:17:21.945609+08:00",
-  "total_titles_processed": 1728,
+  "generated_at": "2026-04-08T23:09:02.484294+08:00",
+  "total_titles_processed": 1859,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             16,
             17,
             26,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 21时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 23时09分]"
         },
         {
           "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
