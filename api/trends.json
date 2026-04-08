@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T02:57:17.645460+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-04-09T03:58:55.626132+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 03时58分]"
         },
         {
           "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
