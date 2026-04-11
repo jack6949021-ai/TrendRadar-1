@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T20:54:26.898123+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-04-11T21:55:55.290385+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,24 @@
             13,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时00分 ~ 20时54分]"
+          "appearance_count": 10,
+          "time_info": "[14时00分 ~ 21时55分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
           "url": "https://www.zhihu.com/question/2026136705757902456",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 20时54分]"
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 21时55分]"
         },
         {
           "title": "脑机接口融资新世相：机构抢份额 明星项目估值“一周一变” 投半导体、具身智能的机构也来了！",
