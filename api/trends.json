@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T22:36:05.234582+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2026-04-11T23:32:33.881454+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时00分 ~ 22时36分]"
+          "appearance_count": 13,
+          "time_info": "[14时00分 ~ 23时32分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
@@ -180,8 +181,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时35分 ~ 22时36分]"
+          "appearance_count": 3,
+          "time_info": "[22时35分 ~ 23时32分]"
         },
         {
           "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
