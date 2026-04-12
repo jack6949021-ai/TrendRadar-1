@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T07:32:23.230704+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-04-12T10:25:38.102413+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 10时25分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -24,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 10时25分]"
         }
       ]
     }
