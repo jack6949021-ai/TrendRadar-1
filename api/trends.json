@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T22:52:34.162920+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-04-12T23:35:12.293074+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             6,
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时35分 ~ 22时52分]"
+          "appearance_count": 24,
+          "time_info": "[00时35分 ~ 23时35分]"
         },
         {
           "title": "磁吸爬壁、多场景作业 我国特种机器人迈上具身智能新台阶",
