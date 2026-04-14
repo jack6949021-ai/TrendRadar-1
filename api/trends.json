@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-14T10:24:57.652007+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-04-14T13:22:38.969862+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI伦敦设立永久办公室",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
         {
           "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
           "url": "https://flash.jin10.com/detail/20260414043421131800",
@@ -24,11 +35,34 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32958985",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 13时22分]"
+        },
+        {
+          "title": "OpenAI估值8520亿美元遭质疑：押注企业市场，投资人直言“失焦”",
+          "url": "https://flash.jin10.com/detail/20260414124747645800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "13时22分"
+        },
+        {
+          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3087405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         }
       ]
     }
