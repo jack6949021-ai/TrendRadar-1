@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T15:29:19.344427+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-04-15T17:17:51.061657+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 15时29分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 17时17分]"
         },
         {
           "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
