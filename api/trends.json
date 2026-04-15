@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T07:41:00.665136+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-04-15T10:13:47.175138+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "月薪3万，去内蒙草原给DeepSeek守机房",
+          "url": "https://wallstreetcn.com/articles/3769935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 10时13分]"
+        },
+        {
           "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
           "url": "https://m.thepaper.cn/newsDetail_forward_32958985",
           "source": "澎湃新闻",
           "ranks": [
             6,
             8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 07时41分]"
-        },
-        {
-          "title": "月薪3万，去内蒙草原给DeepSeek守机房",
-          "url": "https://wallstreetcn.com/articles/3769935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
             9
           ],
           "is_new": false,
