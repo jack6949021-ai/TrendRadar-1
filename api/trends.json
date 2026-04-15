@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-16T04:44:36.115472+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-04-16T05:51:31.997274+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
+          "url": "https://flash.jin10.com/detail/20260416050117948800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "谷歌关联公司拟发57亿美元垃圾债 助力数据中心建设",
+          "url": "https://flash.jin10.com/detail/20260416045257037800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
         {
           "title": "DeepSeek招人去内蒙草原“守机房”",
           "url": "https://www.toutiao.com/trending/7628152198593691675/",
@@ -14,11 +36,12 @@
           "ranks": [
             24,
             10,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 04时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 05时51分]"
         },
         {
           "title": "市场消息：谷歌母公司Alphabet有望从其对SpaceX的投资中获得约1000亿美元的巨额回报。",
