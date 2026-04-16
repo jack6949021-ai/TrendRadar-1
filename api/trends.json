@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T15:29:19.514166+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-04-16T18:08:06.945544+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
@@ -22,8 +22,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 15时29分]"
+          "appearance_count": 11,
+          "time_info": "[01时15分 ~ 18时08分]"
         },
         {
           "title": "中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链",
