@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T10:26:05.720158+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-04-17T13:27:12.993479+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 13时27分]"
         },
         {
           "title": "NiSource美股盘后涨3.7%，该公司宣布与谷歌母公司Alphabet附属公司达成长期能源供应协议，用于后者在美国印第安纳州北部开发和运营大规模数据中心。",
@@ -81,7 +81,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -92,7 +92,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
