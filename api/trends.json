@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T17:46:00.294179+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-04-18T18:39:14.768694+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时05分 ~ 17时46分]"
+          "appearance_count": 10,
+          "time_info": "[13时05分 ~ 18时39分]"
         },
         {
           "title": "OpenAI高管Kevin Weil离职。（Wired）",
