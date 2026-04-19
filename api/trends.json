@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T18:38:24.580644+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-04-19T19:34:36.700099+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -29,21 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 18时38分]"
-        },
-        {
-          "title": "DeepSeek被曝启动融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 17时45分]"
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 19时34分]"
         },
         {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
@@ -58,8 +45,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 18时38分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 19时34分]"
+        },
+        {
+          "title": "DeepSeek被曝启动融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 17时45分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -80,11 +80,12 @@
           "ranks": [
             21,
             24,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时38分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 19时34分]"
         },
         {
           "title": "高德首款具身智能机器人亮相北京亦庄",
