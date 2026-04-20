@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T16:04:07.175900+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-04-20T18:47:05.210988+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek V4 即将发布并提出「去 CUDA 化」？",
@@ -62,13 +62,24 @@
           "time_info": "[00时38分 ~ 02时46分]"
         },
         {
+          "title": "DeepSeek 被曝融资 20 亿，真实性如何？若属实，估值合理吗？一直说不融资的它，怎么突然松口了？",
+          "url": "https://www.zhihu.com/question/2029232145541980805",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
+        },
+        {
           "title": "晶华新材：公司已与多家灵巧手、具身智能领域企业开展深度业务合作",
           "url": "https://flash.jin10.com/detail/20260420154736972800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         }
