@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T05:44:06.601059+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-04-22T06:37:17.229201+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             17,
             6,
             21,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时37分]"
         },
         {
           "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
