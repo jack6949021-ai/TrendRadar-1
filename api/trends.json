@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-04-22T13:24:51.395089+08:00",
-  "total_titles_processed": 993,
-  "failed_sources": [],
+  "generated_at": "2026-04-22T15:30:45.438202+08:00",
+  "total_titles_processed": 1138,
+  "failed_sources": [
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
@@ -84,7 +86,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
