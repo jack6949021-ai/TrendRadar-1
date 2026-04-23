@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T10:28:29.998037+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-04-23T13:29:18.985208+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 10时28分]"
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 13时29分]"
         },
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
@@ -154,7 +155,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
