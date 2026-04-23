@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T04:51:18.074025+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-04-24T05:43:52.508790+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时43分]"
         },
         {
           "title": "OpenAI：将很快把GPT‑5.5和GPT‑5.5 PRO引入 API。",
