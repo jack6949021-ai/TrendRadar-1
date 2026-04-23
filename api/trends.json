@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T03:06:03.865768+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-04-24T04:51:18.074025+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 04时51分]"
         },
         {
           "title": "OpenAI：将很快把GPT‑5.5和GPT‑5.5 PRO引入 API。",
@@ -26,7 +27,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -37,7 +38,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -48,7 +49,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -59,7 +60,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -70,7 +71,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         }
