@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T15:48:59.156893+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-04-23T17:26:49.270111+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时43分 ~ 13时29分]"
+        },
+        {
+          "title": "谷歌：将在奥地利开设首个数据中心，创造100个就业岗位。",
+          "url": "https://flash.jin10.com/detail/20260423170332420800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
