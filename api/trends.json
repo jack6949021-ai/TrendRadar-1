@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T02:47:29.861156+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-04-25T03:51:42.693334+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时51分]"
         },
         {
           "title": "DeepSeek V4 Pro实测",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时51分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -38,19 +38,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时51分]"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
           "url": "https://www.cls.cn/detail/2354937",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时51分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -72,11 +73,12 @@
           "ranks": [
             5,
             9,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时51分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -85,11 +87,12 @@
           "ranks": [
             5,
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时51分]"
         },
         {
           "title": "实测DeepSeek V4",
@@ -101,8 +104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时51分]"
         },
         {
           "title": "DeepSeekV4预览版本上线",
@@ -111,11 +114,12 @@
           "ranks": [
             16,
             20,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时51分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
@@ -124,11 +128,12 @@
           "ranks": [
             19,
             13,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时51分]"
         },
         {
           "title": "DeepSeek V4强在哪里",
@@ -140,8 +145,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时51分]"
         },
         {
           "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
@@ -151,8 +156,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时51分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -160,11 +165,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时51分]"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
