@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T22:06:26.120888+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-04-25T23:38:34.653019+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 07时38分]"
+        },
+        {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时10分 ~ 23时38分]"
         },
         {
           "title": "DeepSeekV4更新了啥",
@@ -88,19 +101,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 10时10分]"
-        },
-        {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时10分 ~ 22时06分]"
         },
         {
           "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
@@ -303,6 +303,17 @@
           "time_info": "21时02分"
         },
         {
+          "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
+          "url": "https://wallstreetcn.com/livenews/3094410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "太初元碁完成DeepSeek-V4深度适配与协同优化",
           "url": "https://flash.jin10.com/detail/20260425121506864800",
           "source": "金十数据",
@@ -388,8 +399,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时06分]"
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时38分]"
         },
         {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
