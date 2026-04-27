@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T16:21:37.462953+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-04-27T19:02:35.589590+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -38,11 +38,12 @@
           "ranks": [
             4,
             2,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 16时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 19时02分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -95,6 +96,17 @@
           "time_info": "[00时40分 ~ 07时37分]"
         },
         {
+          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
+          "url": "https://www.zhihu.com/question/2031494133160861736",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 19时02分]"
+        },
+        {
           "title": "DeepSeek V4全面评测",
           "url": "https://www.douyin.com/hot/2479058",
           "source": "抖音",
@@ -110,17 +122,6 @@
           "time_info": "[00时40分 ~ 06时36分]"
         },
         {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 16时21分]"
-        },
-        {
           "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
           "url": "https://wallstreetcn.com/articles/3770923",
           "source": "华尔街见闻",
@@ -129,8 +130,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 19时02分]"
+        },
+        {
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 19时02分]"
         },
         {
           "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
@@ -144,15 +157,15 @@
           "time_info": "13时52分"
         },
         {
-          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
-          "url": "https://www.cls.cn/detail/2356575",
-          "source": "财联社热门",
+          "title": "媒体：梁文锋这一次要掀桌",
+          "url": "https://www.toutiao.com/trending/7633338675333434907/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "19时02分"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -216,6 +229,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 16时21分]"
+        },
+        {
+          "title": "DeepSeek 多位骨干离职去大厂，他们的去向透露出哪些信息？会对 DeepSeek 自身带来多大影响？",
+          "url": "https://www.zhihu.com/question/2031824748590494923",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "中国石化完成DeepSeek-V4私有化部署",
+          "url": "https://www.toutiao.com/trending/7632654178616213547/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
