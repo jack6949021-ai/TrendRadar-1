@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T06:55:53.335692+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-04-30T07:54:17.502628+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,32 @@
           "time_info": "[01时26分 ~ 06时55分]"
         },
         {
+          "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
+          "url": "https://www.zhihu.com/question/2032851960177631968",
+          "source": "知乎",
+          "ranks": [
+            13,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时54分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时54分]"
+        },
+        {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
           "url": "https://wallstreetcn.com/articles/3771151",
           "source": "华尔街见闻",
@@ -30,42 +56,6 @@
           "time_info": "[01时26分 ~ 05时02分]"
         },
         {
-          "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
-          "url": "https://www.zhihu.com/question/2032851960177631968",
-          "source": "知乎",
-          "ranks": [
-            13,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时55分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时55分]"
-        },
-        {
-          "title": "Anthropic估值或升至逾9000亿美元超过OpenAI",
-          "url": "https://flash.jin10.com/detail/20260430061412017800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
           "title": "从硅谷视角看DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
@@ -75,8 +65,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时26分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 07时54分]"
+        },
+        {
+          "title": "Anthropic估值或升至逾9000亿美元超过OpenAI",
+          "url": "https://flash.jin10.com/detail/20260430061412017800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时54分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -129,7 +131,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -173,7 +175,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
