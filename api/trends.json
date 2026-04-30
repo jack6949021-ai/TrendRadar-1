@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T07:54:17.502628+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-04-30T10:44:31.382178+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             2,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 07时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 10时44分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -62,11 +63,12 @@
           "ranks": [
             13,
             15,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 07时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 10时44分]"
         },
         {
           "title": "Anthropic估值或升至逾9000亿美元超过OpenAI",
@@ -101,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "OpenAI：开发者大会9月29日在旧金山举行。",
@@ -189,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "Anthropic年收300亿碾压OpenAI",
+          "url": "https://s.weibo.com/weibo?q=Anthropic%E5%B9%B4%E6%94%B6300%E4%BA%BF%E7%A2%BE%E5%8E%8BOpenAI&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     }
