@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T04:59:06.664076+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-01T06:00:29.127144+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 06时00分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -27,21 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时59分]"
-        },
-        {
-          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
-          "url": "https://www.zhihu.com/question/2031352480852915686",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 06时00分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -52,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 06时00分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -61,11 +48,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 06时00分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -76,8 +64,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 06时00分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -85,6 +73,19 @@
           "source": "百度热搜",
           "ranks": [
             15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 06时00分]"
+        },
+        {
+          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
+          "url": "https://www.zhihu.com/question/2031352480852915686",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -130,7 +131,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -174,7 +175,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         }
