@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T05:52:31.842433+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-05-02T06:48:30.338382+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时48分]"
         },
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时48分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时48分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时48分]"
         },
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -62,8 +62,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时48分]"
         },
         {
           "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
@@ -74,8 +74,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时52分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时48分]"
         }
       ]
     }
