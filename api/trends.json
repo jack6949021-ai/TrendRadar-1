@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T16:59:48.604409+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-05-01T18:27:42.977263+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,24 @@
             2,
             4,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时19分 ~ 16时59分]"
+          "appearance_count": 13,
+          "time_info": "[01时19分 ~ 18时27分]"
+        },
+        {
+          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时01分 ~ 18时27分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -35,16 +48,18 @@
           "time_info": "[01时19分 ~ 07时57分]"
         },
         {
-          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            1
+            11,
+            5,
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时01分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[07时01分 ~ 18时27分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -72,20 +87,6 @@
           "time_info": "[01时19分 ~ 11时29分]"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时01分 ~ 16时59分]"
-        },
-        {
           "title": "DeepSeek多模态模型来了",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -107,6 +108,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 06时00分]"
+        },
+        {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 18时27分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
@@ -135,18 +149,6 @@
           "time_info": "[11时29分 ~ 16时59分]"
         },
         {
-          "title": "DeepSeek多模态正式发布",
-          "url": "https://www.douyin.com/hot/2485029",
-          "source": "抖音",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 16时59分]"
-        },
-        {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
           "url": "https://wallstreetcn.com/articles/3771342",
           "source": "华尔街见闻",
@@ -157,6 +159,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时01分 ~ 11时29分]"
+        },
+        {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 18时27分]"
         },
         {
           "title": "今起施行，杭州为具身智能机器人立法",
@@ -179,17 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -319,7 +322,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         }
