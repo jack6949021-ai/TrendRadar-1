@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T01:43:01.772407+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-05-03T02:57:12.362800+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时57分]"
         },
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 02时57分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
