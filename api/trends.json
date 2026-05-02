@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T22:44:33.495253+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-05-02T23:44:07.320414+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
@@ -112,6 +112,17 @@
           "time_info": "[13时35分 ~ 18时50分]"
         },
         {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时43分 ~ 23时44分]"
+        },
+        {
           "title": "马斯克承认蒸馏ChatGPT",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
           "source": "bilibili 热搜",
@@ -122,17 +133,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时35分 ~ 15时41分]"
-        },
-        {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时43分 ~ 22时44分]"
         },
         {
           "title": "DeepSeek拟人 哇呀啧呜哇",
