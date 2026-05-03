@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T18:03:19.948295+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2026-05-03T19:41:26.836105+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 18时03分]"
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 19时41分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
