@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T10:40:20.036122+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2026-05-04T14:12:08.401838+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 14时12分]"
         }
       ]
     }
