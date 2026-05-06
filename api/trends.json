@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T19:06:02.715760+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-05-06T22:04:44.160760+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             19,
             24,
             14,
-            29
+            29,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时02分 ~ 16时24分]"
+          "appearance_count": 9,
+          "time_info": "[02时02分 ~ 22时04分]"
         },
         {
           "title": "谷歌(GOOG.O)首席科学家警告称，欧盟监管机构的数据共享方式未能有效保护欧洲人的隐私。",
