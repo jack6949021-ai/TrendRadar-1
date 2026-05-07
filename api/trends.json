@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T04:13:34.057713+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-05-08T05:56:59.792404+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时48分 ~ 05时56分]"
         },
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时22分 ~ 05时56分]"
         },
         {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
@@ -71,7 +71,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         }
