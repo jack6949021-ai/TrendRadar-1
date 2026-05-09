@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T19:50:45.812258+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-05-09T21:13:58.968540+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时56分 ~ 19时50分]"
+          "appearance_count": 8,
+          "time_info": "[10时56分 ~ 21时13分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
@@ -33,8 +33,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时48分 ~ 19时50分]"
+          "appearance_count": 7,
+          "time_info": "[13时48分 ~ 21时13分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -44,11 +44,26 @@
             4,
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时55分 ~ 19时50分]"
+          "appearance_count": 6,
+          "time_info": "[15时55分 ~ 21时13分]"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时55分 ~ 21时13分]"
         },
         {
           "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
@@ -60,19 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时55分 ~ 19时50分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -92,11 +94,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 19时50分]"
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 21时13分]"
         },
         {
           "title": "AMD收涨超11%，今年股价已经翻倍，苹果收涨2%，谷歌A涨0.7%",
@@ -109,6 +112,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时58分]"
+        },
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 21时13分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
@@ -133,17 +147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时18分 ~ 18时56分]"
-        },
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 19时50分]"
         },
         {
           "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
