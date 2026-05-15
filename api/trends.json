@@ -1,78 +1,33 @@
 {
-  "generated_at": "2026-05-15T22:03:06.672097+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2026-05-16T00:50:21.961007+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
-          "title": "苹果与OpenAI合作关系紧张 潜在法律纠纷一触即发",
-          "url": "https://flash.jin10.com/detail/20260515004813773800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
-          "url": "https://flash.jin10.com/detail/20260515040418915800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 06时10分]"
-        },
-        {
-          "title": "据科技媒体TechCrunsh：OpenAI表示，黑客在最新的代码安全问题发生后窃取了一些数据。",
-          "url": "https://flash.jin10.com/detail/20260515002730015800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "如何看待 Anthropic 估值反超 OpenAI ？",
-          "url": "https://www.zhihu.com/question/2038588162453104310",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
-          "url": "https://wallstreetcn.com/livenews/3103841",
+          "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
+          "url": "https://wallstreetcn.com/livenews/3104554",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "00时50分"
         },
         {
-          "title": "Gemini Space Station Inc.（GEMI）获得1亿美元投资。 公司一季度营收5030万美元，分析师预期4870万美元。",
-          "url": "https://wallstreetcn.com/livenews/3103894",
+          "title": "对冲基金潘兴广场创始人兼经理比尔·阿克曼：我们卖出谷歌，买入微软。",
+          "url": "https://wallstreetcn.com/livenews/3104544",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "00时50分"
         }
       ]
     }
