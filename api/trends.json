@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T03:15:26.796681+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-05-17T04:43:28.187963+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时43分]"
         },
         {
           "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时43分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -36,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时43分]"
         }
       ]
     }
