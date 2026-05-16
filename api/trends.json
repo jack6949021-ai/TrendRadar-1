@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T01:00:35.355294+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-17T01:59:51.613943+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 01时59分]"
         },
         {
           "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
           "url": "https://www.zhihu.com/question/2038402853274915914",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时00分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 01时59分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -36,9 +37,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时00分 ~ 01时59分]"
         }
       ]
     }
