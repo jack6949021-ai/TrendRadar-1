@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T16:02:22.307490+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-05-18T19:55:06.660114+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3772335",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 16时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 19时55分]"
         },
         {
           "title": "机器人有了国家级训练场 这一具身智能应用中试基地揭牌",
