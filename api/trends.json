@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T05:51:26.085183+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-05-21T07:11:44.749294+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         },
@@ -80,11 +80,12 @@
           "ranks": [
             11,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 05时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 07时11分]"
         },
         {
           "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
@@ -92,11 +93,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 05时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 07时11分]"
         },
         {
           "title": "对标Claude Code！DeepSeek组建Harness团队 入局编程智能体",
@@ -116,7 +118,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
         },
