@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T18:48:47.767480+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-05-22T21:32:03.011328+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时56分 ~ 07时02分]"
+        },
+        {
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek引入API并发限制",
