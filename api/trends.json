@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T00:23:52.462710+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-05-23T02:53:08.897714+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时53分]"
         },
         {
           "title": "苹果谷歌英伟达，集体松了口气",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时53分]"
         }
       ]
     }
