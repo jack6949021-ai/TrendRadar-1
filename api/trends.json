@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T16:55:34.971159+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-05-25T20:28:55.473861+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,24 @@
           "ranks": [
             12,
             17,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 16时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 20时28分]"
+        },
+        {
+          "title": "为什么具身智能、智能机器人、智能矿山这些概念已经炙手可热，而煤矿工人仍在人力下井采矿？",
+          "url": "https://www.zhihu.com/question/2041546699521225998",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 20时28分]"
         },
         {
           "title": "软银集团股价创历史新高 受OpenAI的IPO预期提振",
@@ -63,18 +76,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "为什么具身智能、智能机器人、智能矿山这些概念已经炙手可热，而煤矿工人仍在人力下井采矿？",
-          "url": "https://www.zhihu.com/question/2041546699521225998",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         }
