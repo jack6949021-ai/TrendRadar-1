@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T06:01:16.109309+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-05-31T07:07:21.681979+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             8,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时07分]"
         },
         {
           "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
@@ -26,11 +27,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 07时07分]"
         },
         {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
