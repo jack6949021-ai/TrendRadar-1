@@ -1,68 +1,77 @@
 {
-  "generated_at": "2026-06-01T23:55:20.295351+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-06-02T04:16:21.960598+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
-          "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
-          "url": "https://www.zhihu.com/question/2043802300246915002",
-          "source": "知乎",
+          "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
+          "url": "https://wallstreetcn.com/livenews/3112620",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 07时12分]"
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
-          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 11时47分]"
-        },
-        {
-          "title": "物理AI爆发临近？英伟达发布“全能”世界模型 机器人、自动驾驶有望获强力助推",
-          "url": "https://www.cls.cn/detail/2386991",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 17时25分]"
-        },
-        {
-          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
-          "url": "https://wallstreetcn.com/articles/3773518",
-          "source": "华尔街见闻",
+          "title": "Anthropic已提交IPO申请 OpenAI创始人称不争首家“头衔”",
+          "url": "https://flash.jin10.com/detail/20260602032624584800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时47分"
+          "time_info": "04时16分"
         },
         {
-          "title": "OpenAI被美国佛罗里达州总检察长起诉，与AI的诸多危害有关。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3112532",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI：BARN项目预计在租赁期内产生10亿美元的税收收入。",
+          "url": "https://flash.jin10.com/detail/20260602031452989800",
+          "source": "金十数据",
           "ranks": [
-            25
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时55分"
+          "time_info": "04时16分"
+        },
+        {
+          "title": "OpenAI：与Related Digital、甲骨文、沃尔布里奇、黑石集团合作，贡献1000万美元用于萨林娱乐中心的改善。",
+          "url": "https://flash.jin10.com/detail/20260602031357524800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI将在对公司有利时进行IPO。",
+          "url": "https://flash.jin10.com/detail/20260602024757153800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：在Anthropic提交上市申请后，他并未关注IPO的时机。",
+          "url": "https://flash.jin10.com/detail/20260602024742744800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         }
       ]
     }
