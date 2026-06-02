@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-06-02T13:30:07.748284+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-06-02T18:20:12.037264+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
           "url": "https://wallstreetcn.com/articles/3773607",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 18时20分]"
+        },
+        {
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
+          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
+          "url": "https://www.cls.cn/detail/2387988",
+          "source": "财联社热门",
+          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
