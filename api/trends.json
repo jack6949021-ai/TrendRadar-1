@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T18:20:12.037264+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-06-02T22:51:18.273398+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 18时20分]"
-        },
-        {
-          "title": "DeepSeek降价",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 22时51分]"
         },
         {
           "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
@@ -40,6 +29,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 22时51分]"
         },
         {
           "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
