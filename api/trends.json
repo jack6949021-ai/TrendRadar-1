@@ -1,55 +1,70 @@
 {
-  "generated_at": "2026-06-04T02:22:21.591473+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-04T05:47:58.643136+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
           "url": "https://www.zhihu.com/question/2045220633466725057",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 05时47分]"
         },
         {
           "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
           "url": "https://www.zhihu.com/question/2045440339406762131",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 05时47分]"
         },
         {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
           "url": "https://www.cls.cn/detail/2389857",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 05时47分]"
         },
         {
           "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
           "url": "https://www.zhihu.com/question/2045160976878680020",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 05时47分]"
+        },
+        {
+          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
+          "url": "https://flash.jin10.com/detail/20260604051716270800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "05时47分"
         }
       ]
     }
