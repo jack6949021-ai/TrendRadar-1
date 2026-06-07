@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T02:03:01.683550+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-06-08T04:10:01.832713+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时10分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时10分]"
         },
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
@@ -39,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时10分]"
         }
       ]
     }
