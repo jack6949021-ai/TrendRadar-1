@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T06:23:22.146965+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-06-10T08:11:40.917058+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 08时11分]"
         },
         {
           "title": "谷歌英伟达",
@@ -26,11 +27,12 @@
           "source": "微博",
           "ranks": [
             27,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时55分 ~ 06时23分]"
+          "appearance_count": 3,
+          "time_info": "[04时55分 ~ 08时11分]"
         }
       ]
     }
