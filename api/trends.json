@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T06:02:03.869199+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-06-12T07:47:33.932765+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 07时47分]"
         },
         {
           "title": "OpenAI将收购Ona 强化Codex代理能力",
