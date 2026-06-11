@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T00:53:49.614903+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-12T03:35:03.549830+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 03时35分]"
         },
         {
           "title": "据CNBC：OpenAI将收购Ona，以增强其人工智能编程助手Codex的能力。",
