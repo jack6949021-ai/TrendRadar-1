@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T11:41:55.244945+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-06-12T16:24:24.503535+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -60,7 +60,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -93,9 +93,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "我们真的需要又一个 DeepSeek V5 吗？",
+          "url": "https://www.zhihu.com/question/2031303606524186735",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "高盛：SpaceX、OpenAI等超级IPO不会终结AI牛市",
@@ -104,7 +115,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -115,7 +126,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         }
