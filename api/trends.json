@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T03:24:14.994753+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-06-15T05:10:30.746306+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 05时10分]"
         },
         {
           "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 05时10分]"
         }
       ]
     }
