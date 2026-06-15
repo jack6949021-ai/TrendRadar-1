@@ -1,44 +1,22 @@
 {
-  "generated_at": "2026-06-15T18:32:41.154305+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-06-16T00:16:51.083818+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 07时08分]"
-        },
-        {
-          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
-          "url": "https://wallstreetcn.com/articles/3774610",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 12时02分]"
-        },
-        {
-          "title": "赛力斯人形机器人首度亮相，今年内将推出双足、四足等多款具身智能机器人",
-          "url": "https://wallstreetcn.com/livenews/3119589",
+          "title": "OpenAI承诺在2026年对与AI相关的非营利问题投资5000万美元。",
+          "url": "https://wallstreetcn.com/livenews/3119785",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时32分"
+          "time_info": "00时16分"
         }
       ]
     }
