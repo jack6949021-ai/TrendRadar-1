@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T05:04:24.296563+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-06-18T07:22:24.001518+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2402553",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 07时22分]"
         },
         {
           "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
