@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T19:20:46.704463+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-06-19T23:00:24.658929+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 19时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 23时00分]"
         },
         {
           "title": "OpenAI：ChatGPT企业版管理员即日起可使用新的分析功能和更新的支出控制工具。",
