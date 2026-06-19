@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T06:11:35.172961+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-06-19T08:26:25.017093+08:00",
+  "total_titles_processed": 667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI：ChatGPT企业版管理员即日起可使用新的分析功能和更新的支出控制工具。",
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -46,11 +46,34 @@
           "source": "贴吧",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 06时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 08时26分]"
+        },
+        {
+          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
+        },
+        {
+          "title": "DeepSeek能火只靠便宜吗",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%83%BD%E7%81%AB%E5%8F%AA%E9%9D%A0%E4%BE%BF%E5%AE%9C%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时26分"
         }
       ]
     }
