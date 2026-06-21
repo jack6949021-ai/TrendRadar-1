@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T16:29:32.731594+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-06-21T19:45:02.563763+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 16时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 19时45分]"
         },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
