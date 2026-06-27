@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T05:02:00.713435+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-06-28T06:12:58.135403+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时12分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
           "url": "https://wallstreetcn.com/articles/3775676",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时12分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时12分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -45,26 +58,16 @@
           "time_info": "[00时04分 ~ 05时02分]"
         },
         {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时02分]"
-        },
-        {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
           "url": "https://wallstreetcn.com/articles/3775663",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时12分]"
         }
       ]
     }
