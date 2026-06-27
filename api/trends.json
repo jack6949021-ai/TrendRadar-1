@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T03:41:56.298422+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-06-28T05:02:00.713435+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时02分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时02分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -37,11 +37,12 @@
           "ranks": [
             8,
             5,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时02分]"
         },
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -51,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时02分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -62,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时02分]"
         }
       ]
     }
