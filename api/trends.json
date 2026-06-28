@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T03:16:37.967322+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-06-29T04:59:49.248789+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时59分]"
         },
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时59分]"
         },
         {
           "title": "富达国际资深股票分析师：具身智能投资从追本体转向掘金细分产业链",
@@ -39,8 +39,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时59分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
