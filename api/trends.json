@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T06:07:25.842967+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-06-29T08:06:56.383949+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时06分]"
         },
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -25,11 +25,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时06分]"
         },
         {
           "title": "富达国际资深股票分析师：具身智能投资从追本体转向掘金细分产业链",
