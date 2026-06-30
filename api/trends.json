@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T13:03:20.082272+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-06-30T16:36:24.009345+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 13时03分]"
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 16时36分]"
         },
         {
           "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
@@ -62,9 +62,20 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 16时36分]"
+        },
+        {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "16时36分"
         },
         {
           "title": "分析师：OpenAI或于今年启动IPO 无需等到2027年",
