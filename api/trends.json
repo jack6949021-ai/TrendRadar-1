@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T03:52:41.508233+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-07-01T05:27:54.473850+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2055040930516824522",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 05时27分]"
         },
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -26,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 05时27分]"
         },
         {
           "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
@@ -47,7 +48,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         }
