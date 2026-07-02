@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T10:59:15.539167+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-07-02T14:45:38.699569+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,29 @@
           "time_info": "[01时52分 ~ 07时13分]"
         },
         {
+          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
+          "url": "https://wallstreetcn.com/articles/3775976",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 14时45分]"
+        },
+        {
+          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
+          "url": "https://www.cls.cn/detail/2414683",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 14时45分]"
+        },
+        {
           "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
           "url": "https://wallstreetcn.com/livenews/3127564",
           "source": "华尔街见闻-快讯",
@@ -32,28 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 03时51分]"
-        },
-        {
-          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
-          "url": "https://wallstreetcn.com/articles/3775976",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
-        },
-        {
-          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
-          "url": "https://www.cls.cn/detail/2414683",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
         },
         {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
