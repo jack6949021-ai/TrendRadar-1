@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T01:45:19.476907+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-03T03:21:22.697208+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -45,33 +45,24 @@
           "url": "https://www.zhihu.com/question/2056064893745193207",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 03时21分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
           "url": "https://www.zhihu.com/question/2050992107284964141",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
-          "url": "https://flash.jin10.com/detail/20260703004456845800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 03时21分]"
         },
         {
           "title": "出现性能下降问题 DeepSeek回应",
@@ -79,6 +70,17 @@
           "source": "百度热搜",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 03时21分]"
+        },
+        {
+          "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
+          "url": "https://flash.jin10.com/detail/20260703004456845800",
+          "source": "金十数据",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
