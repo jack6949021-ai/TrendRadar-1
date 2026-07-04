@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T18:07:55.810832+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-07-04T20:06:14.119275+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 18时07分]"
+          "appearance_count": 6,
+          "time_info": "[12时33分 ~ 20时06分]"
         },
         {
           "title": "宇树高管谈具身智能ChatGPT时刻",
