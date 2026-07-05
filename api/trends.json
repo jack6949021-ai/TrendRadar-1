@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T03:39:29.460766+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-07-06T04:58:05.901554+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 04时58分]"
         },
         {
           "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 03时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时58分]"
         }
       ]
     }
