@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T12:55:13.981778+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-07-05T15:56:00.661540+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "经纬度：具身智能进入“从1到100”的爆发期",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时01分 ~ 08时05分]"
+        },
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 15时56分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
