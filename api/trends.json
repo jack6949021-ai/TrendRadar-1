@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T18:10:20.916564+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-07-05T20:14:55.431422+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 20时14分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
