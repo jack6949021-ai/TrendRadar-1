@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T06:59:03.855212+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-07-05T08:05:48.641072+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 06时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 08时05分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
           "url": "https://www.zhihu.com/question/2050992107284964141",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 06时59分]"
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 08时05分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
