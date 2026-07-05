@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T15:56:00.661540+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-07-05T18:10:20.916564+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 15时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 18时10分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
