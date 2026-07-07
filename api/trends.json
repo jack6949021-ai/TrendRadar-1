@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T06:10:43.813181+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-07-08T07:57:24.876794+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 07时57分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 07时57分]"
         },
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -48,11 +48,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 07时57分]"
         },
         {
           "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
