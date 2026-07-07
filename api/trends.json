@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T04:56:10.942947+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-07-08T06:10:43.813181+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时10分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时10分]"
         },
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -61,7 +61,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
