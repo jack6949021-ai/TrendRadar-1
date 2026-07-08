@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T04:19:39.912829+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-07-09T06:04:18.168426+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 06时04分]"
         },
         {
           "title": "OpenAI面向全球发布语音模型GPT-Live，有两个版本。",
@@ -42,6 +43,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "OpenAI：将扩大与美国政府及盟友在关键防御领域的合作。",
+          "url": "https://flash.jin10.com/detail/20260709043940767800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "OpenAI：发布国家安全原则文件。",
+          "url": "https://flash.jin10.com/detail/20260709043809283800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         }
       ]
     }
