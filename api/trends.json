@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T02:17:08.807987+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-07-09T04:19:39.912829+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             15,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时19分]"
         },
         {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
           "url": "https://www.zhihu.com/question/2058166406420460573",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 02时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时19分]"
         },
         {
           "title": "OpenAI面向全球发布语音模型GPT-Live，有两个版本。",
@@ -37,7 +39,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         }
