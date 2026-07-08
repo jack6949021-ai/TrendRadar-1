@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T16:24:25.034215+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-07-08T19:03:05.884383+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -57,6 +57,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 10时33分]"
+        },
+        {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
         },
         {
           "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
