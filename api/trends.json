@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T10:46:31.764801+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-07-10T14:43:30.152857+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,18 @@
           "time_info": "[01时22分 ~ 03时42分]"
         },
         {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 14时43分]"
+        },
+        {
           "title": "OpenAI：Chatgpt Work将开始向网页版和移动端的Pro、Enterprise及Edu用户推出，Plus和Business用户将在未来几天陆续获得访问权限。",
           "url": "https://flash.jin10.com/detail/20260710010338995800",
           "source": "金十数据",
@@ -51,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
         },
         {
           "title": "OpenAI：推出由GPT-5.6驱动的Chatgpt Work，这是我们最新的前沿模型系列。全新Chatgpt桌面应用将聊天、工作与Codex整合在一起。",
