@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T21:22:53.723057+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-07-12T22:55:03.373578+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[18时25分 ~ 22时55分]"
         },
         {
           "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
