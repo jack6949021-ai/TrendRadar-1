@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T18:26:11.723616+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-07-12T19:58:07.105093+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,18 @@
           "time_info": "[02时59分 ~ 07时53分]"
         },
         {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 19时58分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
           "url": "https://flash.jin10.com/detail/20260712043502920800",
           "source": "金十数据",
@@ -32,17 +44,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时47分 ~ 07时53分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "商业航天“DeepSeek时刻”到了吗",
