@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T00:21:13.713070+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-16T02:05:23.102129+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         },
@@ -23,11 +23,12 @@
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时05分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -37,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 02时05分]"
         },
         {
           "title": "市场消息：谷歌将于下周允许第三方商店入驻其应用商店。",
@@ -47,7 +48,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         }
