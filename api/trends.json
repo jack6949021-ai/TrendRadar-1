@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T18:47:41.061550+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-07-15T20:13:30.475638+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
@@ -18,17 +18,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时12分 ~ 07时52分]"
-        },
-        {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -52,6 +41,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时02分]"
+        },
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 20时13分]"
         },
         {
           "title": "市场消息：OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。",
@@ -78,6 +79,19 @@
           "time_info": "[04时59分 ~ 06时02分]"
         },
         {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 20时13分]"
+        },
+        {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
           "url": "https://www.zhihu.com/question/2059349642496710015",
           "source": "知乎",
@@ -91,17 +105,16 @@
           "time_info": "[00时12分 ~ 03时39分]"
         },
         {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
           "ranks": [
             13,
-            6,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 18时47分]"
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 20时13分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
@@ -114,17 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 16时05分]"
-        },
-        {
-          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
-          "url": "https://www.cls.cn/detail/2427193",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
         },
         {
           "title": "OpenAI开始涉足苹果“舒适区”，拟推首款AI硬件",
@@ -155,7 +157,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
