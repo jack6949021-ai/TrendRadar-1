@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T00:14:12.378692+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-18T02:04:44.024212+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时04分]"
         },
         {
           "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
@@ -25,7 +25,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         }
