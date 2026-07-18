@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T03:02:01.777667+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-07-19T04:07:28.218438+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2430120",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时07分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -24,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时07分]"
         },
         {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
@@ -39,8 +41,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时07分]"
         }
       ]
     }
