@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T01:56:04.048445+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2026-07-19T03:02:01.777667+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 01时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时02分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
           "url": "https://www.zhihu.com/question/2061407401308152796",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 01时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时02分]"
         },
         {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
@@ -38,8 +39,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时02分]"
         }
       ]
     }
