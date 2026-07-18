@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T21:38:17.395238+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2026-07-18T22:50:23.762315+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时23分 ~ 21时38分]"
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 22时50分]"
         },
         {
           "title": "中兴通讯星系列人形机器人及具身智能解决方案亮相WAIC 2026",
@@ -120,7 +121,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
