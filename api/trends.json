@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T03:05:40.718816+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-07-20T04:43:35.850912+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时43分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时43分]"
         },
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时43分]"
         },
         {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时43分]"
         },
         {
           "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
