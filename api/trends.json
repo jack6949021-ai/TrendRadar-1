@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T05:50:57.406828+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-07-20T06:50:00.637158+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时50分]"
+        },
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时50分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -32,17 +43,6 @@
           "time_info": "[00时56分 ~ 05时50分]"
         },
         {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时50分]"
-        },
-        {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
           "url": "https://www.zhihu.com/question/2062166923002090163",
           "source": "知乎",
@@ -50,11 +50,12 @@
             9,
             8,
             5,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时50分]"
         },
         {
           "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
