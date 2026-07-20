@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T14:16:29.049934+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-07-20T17:58:50.570189+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 17时58分]"
         },
         {
           "title": "中信建投：Kimi K3模型达全球Tier1，国产模型再现DeepSeek时刻",
@@ -78,7 +78,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -100,7 +100,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -111,7 +111,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         }
