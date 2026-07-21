@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T06:56:09.236884+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-07-22T07:55:47.777191+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 07时55分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -27,8 +27,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 07时55分]"
         },
         {
           "title": "谷歌发布一系列更低成本的Gemini模型",
@@ -148,7 +148,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
