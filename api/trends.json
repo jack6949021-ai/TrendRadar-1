@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T21:47:29.691147+08:00",
-  "total_titles_processed": 1482,
+  "generated_at": "2026-07-22T23:39:32.738415+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -56,13 +56,24 @@
           "time_info": "01时16分"
         },
         {
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "OpenAI推出工作流程AI智能体部署产品 面向企业客户",
           "url": "https://wallstreetcn.com/livenews/3138239",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -90,6 +101,19 @@
           "time_info": "[10时26分 ~ 16时25分]"
         },
         {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 23时39分]"
+        },
+        {
           "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
           "url": "https://www.zhihu.com/question/2063033606767895735",
           "source": "知乎",
@@ -102,18 +126,6 @@
           "time_info": "[05时06分 ~ 06时56分]"
         },
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 21时47分]"
-        },
-        {
           "title": "吧友做梗图催更DeepSeekV4",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
           "source": "贴吧",
@@ -122,8 +134,31 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 23时39分]"
+        },
+        {
+          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时07分 ~ 21时47分]"
+          "time_info": "[21时47分 ~ 23时39分]"
+        },
+        {
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "OpenAI将云支出预期上调至7500亿美元。OpenAI聘请xAI资深人士Brent Mayo。（华尔街日报）",
@@ -132,7 +167,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -143,7 +178,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -165,7 +200,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -181,24 +216,13 @@
           "time_info": "01时16分"
         },
         {
-          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
           "title": "高通(QCOM.O)：高通、三星和谷歌正在扩大在Android XR上的合作，除了Galaxy XR头戴设备外，还将涉及智能眼镜。",
           "url": "https://flash.jin10.com/detail/20260722210819906800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -225,6 +249,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "特朗普对伊态度转鹰，OpenAI智能体测试中突破隔离| Plus日报",
+          "url": "https://flash.jin10.com/detail/20260722230716718800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "谷歌(GOOG.O)：Gemini 3.6 Flash具备快速理解上下文能力，可帮助用户打造专属创意工具。",
           "url": "https://flash.jin10.com/detail/20260722000525610800",
           "source": "金十数据",
@@ -242,7 +277,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -253,9 +288,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
+        },
+        {
+          "title": "OpenAI遭遇史上首次评测失控事故",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
@@ -275,7 +321,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -286,7 +332,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -297,7 +343,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
