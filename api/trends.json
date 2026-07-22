@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T10:26:21.314827+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-07-22T13:48:06.064401+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时16分 ~ 10时26分]"
+          "appearance_count": 10,
+          "time_info": "[01时16分 ~ 13时48分]"
         },
         {
           "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时16分 ~ 07时55分]"
+        },
+        {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
           "title": "谷歌发布一系列更低成本的Gemini模型",
@@ -54,6 +66,18 @@
           "time_info": "[01时16分 ~ 05时06分]"
         },
         {
+          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
+          "url": "https://wallstreetcn.com/articles/3777555",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 13时48分]"
+        },
+        {
           "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
           "url": "https://www.zhihu.com/question/2063033606767895735",
           "source": "知乎",
@@ -64,17 +88,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时06分 ~ 06时56分]"
-        },
-        {
-          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
-          "url": "https://wallstreetcn.com/articles/3777555",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
