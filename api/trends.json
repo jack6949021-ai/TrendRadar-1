@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T06:54:24.304844+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-07-26T07:59:18.187425+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时54分 ~ 06时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时54分 ~ 07时59分]"
         },
         {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
@@ -29,8 +29,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 06时54分]"
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 07时59分]"
         }
       ]
     }
