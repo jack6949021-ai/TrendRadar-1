@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T06:12:36.874175+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-07-25T08:04:18.979102+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 06时12分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 08时04分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
