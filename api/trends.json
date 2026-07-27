@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T03:24:11.771351+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-07-28T05:08:30.427716+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时40分 ~ 05时08分]"
+        },
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时40分 ~ 05时08分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -31,24 +42,13 @@
           "time_info": "[01时40分 ~ 03时24分]"
         },
         {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 03时24分]"
-        },
-        {
           "title": "谷歌(GOOG.O)和微软(MSFT.O)表示发现的软件漏洞数量创下历史新高。美国方面称已知网络漏洞数量预计将大幅超过205个。",
           "url": "https://flash.jin10.com/detail/20260728020553174800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         }
