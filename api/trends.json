@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T14:32:16.073476+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-07-28T17:35:56.382928+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "真逗,DeepSeek说要去吃饭",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时40分 ~ 14时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时40分 ~ 17时35分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -25,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时40分 ~ 14时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时40分 ~ 17时35分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -42,6 +44,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 03时24分]"
+        },
+        {
+          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
+          "url": "https://wallstreetcn.com/articles/3778049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "谷歌(GOOG.O)和微软(MSFT.O)表示发现的软件漏洞数量创下历史新高。美国方面称已知网络漏洞数量预计将大幅超过205个。",
