@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T19:56:35.562846+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-07-28T22:02:14.879181+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             7,
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时40分 ~ 19时56分]"
+          "appearance_count": 15,
+          "time_info": "[01时40分 ~ 22时02分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
