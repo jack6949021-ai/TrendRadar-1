@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T06:59:39.977401+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-07-28T08:07:01.903166+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时40分 ~ 08时07分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -26,8 +26,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 06时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时40分 ~ 08时07分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -59,7 +59,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         }
