@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T19:06:57.498668+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-07-30T21:53:33.252384+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
@@ -27,7 +27,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -41,6 +41,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 21时53分]"
         },
         {
           "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
@@ -77,17 +89,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
           "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
           "url": "https://wallstreetcn.com/livenews/3141939",
           "source": "华尔街见闻-快讯",
@@ -108,6 +109,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "据CNBC：人工智能投资者、前OpenAI Superalignment团队成员莱奥波德·阿申布伦纳在亏损后正在平仓交易。",
+          "url": "https://flash.jin10.com/detail/20260730210858266800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "甲骨文美股盘前涨幅扩大至4%，甲骨文宣布与谷歌扩大合作伙伴关系，将把谷歌的Gemini模型引入企业应用。",
+          "url": "https://wallstreetcn.com/livenews/3142488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)：客户将能够访问Gemini 3.1 FLASH LITE和3.5 FLASH以进行高级的AI任务。",
+          "url": "https://flash.jin10.com/detail/20260730210354664800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)将向数千家企业应用客户提供Gemini模型。",
+          "url": "https://flash.jin10.com/detail/20260730210325049800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
