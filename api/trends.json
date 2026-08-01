@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T03:12:56.867968+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-08-02T04:48:46.860640+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时48分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时48分]"
         },
         {
           "title": "OpenAI 价格战",
