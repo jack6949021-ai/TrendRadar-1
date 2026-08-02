@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T13:55:49.723313+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-08-02T16:20:46.514456+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 13时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时58分 ~ 16时20分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -42,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时53分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[06时53分 ~ 16时20分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
