@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T10:33:22.078890+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-08-02T13:55:49.723313+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 10时33分]"
+          "appearance_count": 8,
+          "time_info": "[01时58分 ~ 13时55分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -37,11 +38,12 @@
           "ranks": [
             9,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 10时33分]"
+          "appearance_count": 4,
+          "time_info": "[06时53分 ~ 13时55分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -62,7 +64,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
