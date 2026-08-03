@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T10:41:05.439498+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-08-03T14:21:44.983890+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             13,
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 10时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 14时21分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -42,11 +43,12 @@
           "ranks": [
             18,
             19,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 10时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 14时21分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -67,11 +69,12 @@
           "url": "https://www.zhihu.com/question/2065724643378570793",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 10时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 14时21分]"
         }
       ]
     }
