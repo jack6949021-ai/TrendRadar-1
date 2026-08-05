@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T17:49:18.272786+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-08-05T19:59:35.339771+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
@@ -39,6 +39,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时26分 ~ 08时12分]"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 19时59分]"
+        },
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 19时59分]"
         },
         {
           "title": "疑似梁文锋早期微博被扒",
@@ -88,17 +112,6 @@
           "time_info": "[02时26分 ~ 03时28分]"
         },
         {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
           "title": "DeepSeek重启融资 投前估值5000亿元",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E5%90%AF%E8%9E%8D%E8%B5%84+%E6%8A%95%E5%89%8D%E4%BC%B0%E5%80%BC5000%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -119,17 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
-        },
-        {
-          "title": "DeepSeek干完活自己写了个游戏",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
         },
         {
           "title": "OpenAI模型在第三方网络测试中突破安全边界",
