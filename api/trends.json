@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T22:13:12.119782+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-08-07T23:54:36.763446+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 22时13分]"
+          "appearance_count": 8,
+          "time_info": "[16时57分 ~ 23时54分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -69,8 +69,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 22时13分]"
+          "appearance_count": 8,
+          "time_info": "[16时57分 ~ 23时54分]"
         },
         {
           "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
@@ -122,11 +122,23 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 22时13分]"
+          "appearance_count": 4,
+          "time_info": "[20时58分 ~ 23时54分]"
+        },
+        {
+          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
+          "url": "https://flash.jin10.com/detail/20260807231253787800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
@@ -141,6 +153,18 @@
           "time_info": "[15时11分 ~ 18时59分]"
         },
         {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时54分]"
+        },
+        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
@@ -151,17 +175,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时40分 ~ 11时49分]"
-        },
-        {
-          "title": "核心团队跑路,Gemini陷大危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 22时13分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
