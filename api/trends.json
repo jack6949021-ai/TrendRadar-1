@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T18:30:12.185180+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-08-08T19:26:30.600844+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时20分 ~ 18时30分]"
+          "appearance_count": 14,
+          "time_info": "[09时20分 ~ 19时26分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -47,11 +47,12 @@
             14,
             12,
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时51分 ~ 18时30分]"
+          "appearance_count": 21,
+          "time_info": "[03时51分 ~ 19时26分]"
         },
         {
           "title": "核心团队跑路,Gemini陷大危机",
@@ -64,11 +65,12 @@
             20,
             22,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时52分 ~ 18时30分]"
+          "appearance_count": 25,
+          "time_info": "[00时52分 ~ 19时26分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
