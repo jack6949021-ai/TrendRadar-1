@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T13:41:09.821264+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2026-08-08T14:47:25.889632+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时51分 ~ 13时41分]"
+          "appearance_count": 14,
+          "time_info": "[03时51分 ~ 14时47分]"
         },
         {
           "title": "核心团队跑路,Gemini陷大危机",
@@ -52,8 +52,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 13时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 14时47分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -75,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 13时41分]"
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 14时47分]"
         },
         {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
@@ -86,11 +86,12 @@
             1,
             8,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 14时47分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -104,6 +105,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "梁文锋为什么投王兴兴",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%95%E7%8E%8B%E5%85%B4%E5%85%B4",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 14时47分]"
+        },
+        {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
           "url": "https://wallstreetcn.com/livenews/3146841",
           "source": "华尔街见闻-快讯",
@@ -114,17 +126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时53分]"
-        },
-        {
-          "title": "梁文锋为什么投王兴兴",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%95%E7%8E%8B%E5%85%B4%E5%85%B4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
