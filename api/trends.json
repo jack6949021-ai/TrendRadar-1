@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:02:24.251858+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-08-09T14:52:26.511395+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             6,
             5,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 13时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 14时52分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
