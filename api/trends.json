@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T22:24:21.919772+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2026-08-10T23:58:55.929571+08:00",
+  "total_titles_processed": 1804,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             9,
             8,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时52分 ~ 22时24分]"
+          "appearance_count": 10,
+          "time_info": "[11时52分 ~ 23时58分]"
         },
         {
           "title": "DeepSeek为何重启融资",
