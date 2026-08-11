@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T04:57:08.833324+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-08-12T05:43:58.545038+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 05时43分]"
+        },
+        {
+          "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3148238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时43分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -53,24 +65,13 @@
           "time_info": "[04时56分 ~ 04时57分]"
         },
         {
-          "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3148238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
           "title": "据Business Insider：消息人士称，前OpenAI首席产品官凯文·韦尔正在为其新成立的AI科学初创公司寻求至少7.5亿美元估值。",
           "url": "https://flash.jin10.com/detail/20260812035315552800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
