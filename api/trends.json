@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T18:03:02.800837+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-08-13T21:04:06.505561+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 27,
+      "match_count": 37,
       "titles": [
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -20,6 +20,20 @@
           "time_info": "[00时56分 ~ 09时45分]"
         },
         {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时44分 ~ 21时04分]"
+        },
+        {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
           "url": "https://www.zhihu.com/question/2071014727606703118",
           "source": "知乎",
@@ -30,19 +44,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 07时39分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时44分 ~ 18时03分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
@@ -106,6 +107,19 @@
           "time_info": "[07时39分 ~ 18时03分]"
         },
         {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 21时04分]"
+        },
+        {
           "title": "DeepSeek发布V4Pro正式版",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -117,6 +131,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时58分 ~ 09时45分]"
+        },
+        {
+          "title": "DeepSeek官宣涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -264,6 +289,28 @@
           "time_info": "[05时42分 ~ 06时37分]"
         },
         {
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
           "title": "快把真正的DeepSeek V4 Pro还给我",
           "url": "https://search.bilibili.com/all?keyword=%E5%BF%AB%E6%8A%8A%E7%9C%9F%E6%AD%A3%E7%9A%84DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%98%E7%BB%99%E6%88%91",
           "source": "bilibili 热搜",
@@ -273,6 +320,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时02分 ~ 18时03分]"
+        },
+        {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "谷歌AI健康监测再进化：Pixel Watch 5首推胰岛素抵抗追踪",
@@ -286,15 +344,38 @@
           "time_info": "[14时14分 ~ 14时15分]"
         },
         {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
+          "title": "梁文锋、马斯克同日上新",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E3%80%81%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%8C%E6%97%A5%E4%B8%8A%E6%96%B0",
+          "source": "百度热搜",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+          "url": "https://www.zhihu.com/question/2071318356477662328",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "让DeepSeek给小说取架空国名",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9DeepSeek%E7%BB%99%E5%B0%8F%E8%AF%B4%E5%8F%96%E6%9E%B6%E7%A9%BA%E5%9B%BD%E5%90%8D&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出Pixel 11 Pro Fold。",
@@ -328,6 +409,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://wallstreetcn.com/livenews/3149148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "DeepSeek调价方案公布，8月17日生效",
+          "url": "https://wallstreetcn.com/livenews/3149142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "谷歌华人工程师杀妻案最新进展",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E5%8D%8E%E4%BA%BA%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%9D%80%E5%A6%BB%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     }
