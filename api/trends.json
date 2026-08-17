@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T14:50:14.833552+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-08-17T18:29:48.997714+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
@@ -111,8 +111,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 14时50分]"
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 18时29分]"
+        },
+        {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 18时29分]"
         },
         {
           "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
@@ -125,17 +137,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时38分 ~ 14时50分]"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 14时50分]"
         },
         {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
