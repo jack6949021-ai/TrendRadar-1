@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T10:54:26.201951+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-08-18T13:26:54.552217+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
@@ -26,7 +26,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -37,9 +37,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "OpenAI锁定4.25GW数据中心容量",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%94%81%E5%AE%9A4.25GW%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%B9%E9%87%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     }
