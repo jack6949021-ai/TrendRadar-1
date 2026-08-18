@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T13:26:54.552217+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-08-18T19:23:29.439636+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
@@ -31,6 +31,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "OpenAI：还将增加相关提示和控制措施，旨在降低使用环境中的风险，并引导青少年使用有益工具和保护措施。",
+          "url": "https://flash.jin10.com/detail/20260818191028098800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
           "url": "https://www.cls.cn/detail/2456537",
           "source": "财联社热门",
@@ -42,13 +53,46 @@
           "time_info": "10时54分"
         },
         {
+          "title": "OpenAI：如果系统估计某人未满18岁，或他们声明年龄在13至17岁之间，他们将自动被放入青少年版ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20260818190848292800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "OpenAI：与CodeAI合作，为首批人工智能一代做准备。",
+          "url": "https://flash.jin10.com/detail/20260818190508770800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "DeepSeek招聘土木人才释放一个信号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "OpenAI锁定4.25GW数据中心容量",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%94%81%E5%AE%9A4.25GW%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%B9%E9%87%8F",
           "source": "bilibili 热搜",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         }
