@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-08-18T00:25:21.054552+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-08-18T10:54:26.201951+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
           "url": "https://www.zhihu.com/question/2072103596481683649",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 10时54分]"
+        },
+        {
+          "title": "据日经新闻：谷歌计划于2027年停止在中国生产Pixel产品。",
+          "url": "https://flash.jin10.com/detail/20260818103300586800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "10时54分"
+        },
+        {
+          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
+          "url": "https://www.cls.cn/detail/2456537",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     }
