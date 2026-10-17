@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T04:05:55.277257+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2026-10-18T06:53:29.784671+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2094773240036061683",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 06时53分]"
         },
         {
           "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
@@ -26,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 06时53分]"
         },
         {
           "title": "用DeepSeek翻唱人是猫",
@@ -38,8 +39,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 06时53分]"
         },
         {
           "title": "已恢复!DeepSeek发故障补偿",
@@ -49,8 +50,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 04时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 06时53分]"
         },
         {
           "title": "美国总统特朗普：（谈及谷歌）谷歌在我第一任期时根本不会接我的电话。现在他们却在巴结我。",
@@ -59,7 +60,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         }
