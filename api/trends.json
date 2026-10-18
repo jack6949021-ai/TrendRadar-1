@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T06:53:29.784671+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-10-18T08:38:35.969633+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 08时38分]"
         },
         {
           "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
           "url": "https://m.thepaper.cn/newsDetail_forward_34271084",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 08时38分]"
         },
         {
           "title": "用DeepSeek翻唱人是猫",
@@ -36,11 +38,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 08时38分]"
         },
         {
           "title": "已恢复!DeepSeek发故障补偿",
@@ -50,8 +53,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 08时38分]"
         },
         {
           "title": "美国总统特朗普：（谈及谷歌）谷歌在我第一任期时根本不会接我的电话。现在他们却在巴结我。",
