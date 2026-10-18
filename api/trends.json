@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T01:49:45.661175+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-19T04:05:32.334441+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时05分]"
         },
         {
           "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
@@ -26,19 +26,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时05分]"
         },
         {
           "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
           "url": "https://www.zhihu.com/question/2094959269275878409",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时49分"
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 04时05分]"
         }
       ]
     }
