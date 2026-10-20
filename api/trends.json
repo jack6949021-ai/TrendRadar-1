@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T09:34:56.218237+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-10-20T15:09:21.104959+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
@@ -14,9 +14,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 15时09分]"
         },
         {
           "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
@@ -65,13 +65,35 @@
           "time_info": "[03时00分 ~ 03时01分]"
         },
         {
+          "title": "如何评价美国国土安全部将 DeepSeek 及相关第三方产品排除出联邦文职采购？",
+          "url": "https://www.zhihu.com/question/2095646780692099465",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "赶在Anthropic IPO前：OpenAI据悉加速融资 估值或超1.4万亿美元",
+          "url": "https://www.cls.cn/detail/2509215",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "智元机器人、华为哈勃入股具身智能数据公司乙太具身",
           "url": "https://flash.jin10.com/detail/20261020090620973800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         },
@@ -82,7 +104,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         },
@@ -96,6 +118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "针对DeepSeek 美国政府下黑手",
+          "url": "https://www.baidu.com/s?wd=%E9%92%88%E5%AF%B9DeepSeek+%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "原谷歌CEO Eric Schmidt对Anthropic持股大约1%。",
