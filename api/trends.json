@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T09:16:43.482302+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-10-21T15:02:33.074325+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
-          "url": "https://news.ifeng.com/c/8xNZBdFHgMK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 09时16分]"
-        },
-        {
           "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
           "url": "https://www.zhihu.com/question/2095938083422262957",
           "source": "知乎",
           "ranks": [
             7,
             3,
-            1
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 15时02分]"
+        },
+        {
+          "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
+          "url": "https://news.ifeng.com/c/8xNZBdFHgMK",
+          "source": "凤凰网",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -104,7 +105,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         }
