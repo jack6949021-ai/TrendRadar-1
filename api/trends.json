@@ -1,102 +1,66 @@
 {
-  "generated_at": "2026-10-22T21:26:34.390772+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-10-23T03:09:35.572830+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 8,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "揭秘DeepSeek开源推理框架",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeek%E5%BC%80%E6%BA%90%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "腾讯姚顺雨想把DeepSeek卷到加班",
-          "url": "https://www.toutiao.com/trending/7697961005829668883/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 09时12分]"
-        },
-        {
-          "title": "周鸿祎谈美国“封杀”DeepSeek",
-          "url": "https://www.toutiao.com/trending/7699074388208913958/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 09时12分]"
-        },
         {
           "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
           "url": "https://www.zhihu.com/question/2096603053763846842",
           "source": "知乎",
           "ranks": [
-            6
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时26分"
+          "time_info": "03时09分"
         },
         {
           "title": "具身智能“奇点”将至？宇树科技王兴兴：我真的非常害怕浪费每一天",
           "url": "https://www.cls.cn/detail/2512428",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        },
-        {
-          "title": "据The Information：谷歌(GOOG.O)将不再要求当地官员在讨论数据中心建设项目时签署保密协议。此前，批评者认为保密协议阻碍官员向公众披露项目对当地的影响。谷歌此举旨在减少建设数据中心的阻力。",
-          "url": "https://flash.jin10.com/detail/20261022045449605800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时06分"
+          "time_info": "03时09分"
         },
         {
-          "title": "谷歌停止在数据中心项目中使用保密协议",
-          "url": "https://wallstreetcn.com/livenews/3182965",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek完成1000亿融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            23
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时06分"
+          "time_info": "03时09分"
         },
         {
-          "title": "美国参议员就人工智能对学龄儿童的认知影响向谷歌公司寻求解释，此前已展开相关调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3182871",
-          "source": "华尔街见闻-快讯",
+          "title": "“DeepSeek才是真正的OpenAI”",
+          "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
+          "source": "凤凰网",
           "ranks": [
-            25
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时22分"
+          "time_info": "03时09分"
+        },
+        {
+          "title": "曝DeepSeek拟筹得约1000亿元融资",
+          "url": "https://www.toutiao.com/trending/7699466374275403307/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         }
       ]
     }
