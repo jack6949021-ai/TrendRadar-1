@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T06:48:56.415115+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-10-23T09:12:26.342969+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 谷歌 google gemini chatgpt openai DeepSeek 基础超级模型 Llama3.1 智能体（AI Agent） 具身智能 自验证推理 世界模型 3D 生成 氛围编程（vibe coding） AI 原生 TPUv7 GUI Agent RAG（检索增强生成） 多模态大模型 AI 安全与监管 agentic clanker slop hallucinate 拟社会关系（parasocial）",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
@@ -26,9 +26,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "“DeepSeek才是真正的OpenAI”",
+          "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 09时12分]"
         },
         {
           "title": "具身智能“奇点”将至？宇树科技王兴兴：我真的非常害怕浪费每一天",
@@ -54,26 +65,26 @@
           "time_info": "[03时09分 ~ 06时48分]"
         },
         {
-          "title": "“DeepSeek才是真正的OpenAI”",
-          "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 06时48分]"
-        },
-        {
           "title": "Claude：现在，谷歌云上面可以使用Anthropic旗下Claude平台。",
           "url": "https://wallstreetcn.com/livenews/3183985",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "玉渊谭天：商务部政策公布以来，DeepSeek、MiniMax两家头部企业已顺利履行登记手续，并完成开源和海外授权使用",
+          "url": "https://wallstreetcn.com/livenews/3184059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "谷歌宣布，Google Cloud（谷歌云）上由Anthropic负责托管部署的Claude模型选项正式全面可用。",
@@ -82,7 +93,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -93,7 +104,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -115,7 +126,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         }
